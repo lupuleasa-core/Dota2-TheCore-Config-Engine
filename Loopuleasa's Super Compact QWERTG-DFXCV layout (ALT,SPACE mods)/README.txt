@@ -9,7 +9,7 @@ File Structure
 
 - autoexec.cfg
 
-Manages the core functionality of the other files. It's loaded automatically by dota2.
+Manages the core functionality of the other files. It's loaded automatically by dota2. 
 
 
 - dota2_functions_active.cfg
