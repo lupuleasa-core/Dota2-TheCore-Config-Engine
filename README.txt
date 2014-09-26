@@ -2,9 +2,9 @@
 //What is this
 ////////////////////////////////////////////////////
  
-This is a system of .cfg files that control all aspects of the game
+This is a system of .cfg files that control all aspects of the game.
 
-Using this, you have full control over what volvo gave you in-game.
+Using this, you have full control over what volvo gave you in-game, meaning you can tweak every aspect of the game by modifying text files. You can do special functions and keybinds that are not possible otherwise from the in-game menu.
  
  
  
@@ -27,13 +27,11 @@ Using this, you have full control over what volvo gave you in-game.
 //How it works?
 ////////////////////////////////////////////////////
  
-Magic.
+I turned the autoexec.cfg file that is loaded and executed automatically by the dota2 client into an engine that loads and combines the other .cfg files I created into a flexible keyboard layout that is easy to modify once you get the hang of it. 
 
-Or if you're really interested, take a sniff through the code, since I left many comments.
+Take a sniff through files, because I read many readme files laying around and in each .cfg files there are usually plenty of comments.
 
-Basically, autoexec.cfg the file that Dota2 loads automatically has been transformed into an engine that loads all the other .cfg files in a manner that is easy to modify and understand.
 Each config file has its role.
-
 
 
 ////////////////////////////////////////////////////
