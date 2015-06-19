@@ -14,7 +14,7 @@ Using this, you have full control over what volvo gave you in-game, meaning you 
  
 1. Remove all in-game keybinds (by left clicking a bind, then right clicking). Do this for all your binds.
  
-2. Choose one of the keyboard layouts in the various folders you see here and copy the contents to \Steam\SteamApps\common\dota 2 beta\dota\cfg\ (Look in the "keyboard layout visual images" folder to see how the layout will be)
+2. Choose one of the keyboard layouts in the various folders you see here and copy the contents to \Steam\SteamApps\common\dota 2 beta\game\dota\cfg\ (Look in the "keyboard layout visual images" folder to see how the layout will be)
  
 3. You can modify the files however you want to match your preference, just make sure to read and understand what the files do.
 
