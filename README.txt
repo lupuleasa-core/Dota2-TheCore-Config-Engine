@@ -14,11 +14,13 @@ Using this, you have full control over what volvo gave you in-game, meaning you 
  
 1. Remove all in-game keybinds (by left clicking a bind, then right clicking). Do this for all your binds.
  
-2. Choose one of the keyboard layouts in the various folders you see here and copy the contents to \Steam\SteamApps\common\dota 2 beta\game\dota\cfg\ (Look in the "keyboard layout visual images" folder to see how the layout will be)
- 
-3. You can modify the files however you want to match your preference, just make sure to read and understand what the files do.
+2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn or Legacy folders). You can Look in the "keyboard layout visual images" folder to see how the layout will be.
 
-4. Once the game loads, the autoexec.cfg gets executed automatically. Alternatively, press (default) F8 in-game to reload it.
+3. Copy the contents from INSIDE of the folder you chose to \Steam\SteamApps\common\dota 2 beta\game\dota\cfg\ (for Dota 2 Reborn) or \Steam\SteamApps\common\dota 2 beta\dota\cfg\ (for Dota 2 Legacy)  
+ 
+4. You can modify the files however you want to match your preference, just make sure to read and understand what the files do.
+
+5. Once the game loads, the autoexec.cfg gets executed automatically. Alternatively, press (default) F8 in-game to reload it.
 
  
  
