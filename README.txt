@@ -12,15 +12,16 @@ Using this, you have full control over what volvo gave you in-game, meaning you 
 //How to set it up
 ////////////////////////////////////////////////////
  
-1. Remove all in-game keybinds (by left clicking a bind, then right clicking). Do this for all your binds.
+1. Remove all in-game keybinds (by left clicking a bind, then right clicking if you are on Dota 1 Legacy Source 1 or by pressing a far away key like KP_MINUS if you are Dota 2 Reborn Source 2). Do this for all your binds.
+Mine looks like this - http://i.imgur.com/ZMlrp16.png (the ALT+Key keybinds are actually Tilde+Key in my super compact layout, and they don't conflict; I just use them to have some labels on my items in-game)
  
 2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn or Legacy folders). You can Look in the "keyboard layout visual images" folder to see how the layout will be.
 
 3. Copy the contents from INSIDE of the folder you chose to \Steam\SteamApps\common\dota 2 beta\game\dota\cfg\ (for Dota 2 Reborn) or \Steam\SteamApps\common\dota 2 beta\dota\cfg\ (for Dota 2 Legacy)  
  
-4. You can modify the files however you want to match your preference, just make sure to read and understand what the files do.
+4. You can modify the files however you want to match your preference, just make sure to read and understand what the files do. The main files that control the binds are the keybinds_default, keybinds_alt_pressed and keybinds_space_pressed.
 
-5. Once the game loads, the autoexec.cfg gets executed automatically. Alternatively, press (default) F8 in-game to reload it.
+5. Once the game loads, the autoexec.cfg gets executed automatically and you'll hear a sound. Alternatively, press (default) F8 in-game to reload it.
 
  
  
