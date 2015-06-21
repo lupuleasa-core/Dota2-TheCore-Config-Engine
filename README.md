@@ -25,28 +25,28 @@ How to set it up
 Frequently Asked Questions
 ------------------------------------------------
  
-- Do I have to remove ALL the in-game keybinds?
+**Do I have to remove ALL the in-game keybinds?***
 
 You can have a few keybinds there, but they will overwrite what are in the external .cfg files so I cannot guarantee there will be no conflicts. Be aware of conflicts.
 
-- It says the Alt key was remapped to Tilde, but I still have to press Alt+Click on items and abilities to type in chat. Why so?
+**It says the Alt key was remapped to Tilde, but I still have to press Alt+Click on items and abilities to type in chat. Why is this?**
 
 That is an issue on volvo's part, because their dota_remap_alt_key command isn't 100% complete, it mostly just moves the map ping functionality, and the in-game ALT+Key commands (which become Tilde+Key commands). 
 
-- Did you have to remap the ALT key to something like the Tilde key?
+**Did you have to remap the ALT key to something like the Tilde key?**
 
 Yes, because otherwise Alt+Key commands would've only worked if you configured them in-game and I had less control over the layout from the files.
 
-- My keyboard is different, and my Tilde key is in a different place. How do I change it?
+**My keyboard is different, and my Tilde key is in a different place. How do I change it?**
 
 Just go into the autoexec.cfg engine file and change the "dota_remap_alt_key" command and put the key you want to be your secondary "ALT" modifier.
 
-- My in-game item/ability labels are blank, can't I put the keys there?
+**My in-game item/ability labels are blank, can't I put the keys there?**
 
 From the files you can't really do that, but because the ALT key was remapped, you can put ALT+QWER/DFXCMouse5 or whatever the keys are on each keybind, and you will have "Alt+Q", "Alt+W"... displayed in-game, even though those are actually (Tilde+Q, Tilde+W...) and no conflicts will exist. I do it like that just as a visual hack to see my key.
 Mine looks like this - http://i.imgur.com/ZMlrp16.png (the ALT+Key keybinds are actually Tilde+Key in my super compact layout, and they don't conflict; I just use them to have some labels on my items in-game)
  
-- The quick attack and quick follow commands don't seem to work for me. Why?
+**The quick attack and quick follow commands don't seem to work for me. Why?**
 
 You must be running dota on a mac or Linux, where +sixense_left_click doesn't really work as a normal click.
 Additionally, the new Source 2 engine doesn't allow to simulate right-clicks.
