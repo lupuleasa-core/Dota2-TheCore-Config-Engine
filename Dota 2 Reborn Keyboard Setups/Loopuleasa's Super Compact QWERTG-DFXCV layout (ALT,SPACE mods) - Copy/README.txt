@@ -1,19 +1,5 @@
-This keyboard layout is what I currently use and I'm constantly tweaking it until I get an optimal layout.
+This is the core engine that you can use to tweak all aspects of the game the way you want it.
 Each file has a role, and modify what you want in it.
-These aren't hacks, nor they are unfair, since one game action translates to one keystroke.
-It's just efficient.
-
-UPDATED TO DOTA2 REBORN.
-Some functions do not work in Source 2, like:
-- left clicks
-- console output
-- playing hero/item sounds
-- netgraph
-- toggle health segmentation (command still there, toggle is not)
-
-NEW Functions:
-- hold right click to issue move
-- Tilde+Right Click = move directly / face that way
 
 Supported stuff:
 - Alt as modifier key
@@ -21,7 +7,6 @@ Supported stuff:
 - Quickcast/Normal cast mode toggle
 - Hero custom modes
 - Split config files structure, for ease of editing
-- Really compact keybind reachable by your hand
 
 
 
@@ -50,7 +35,7 @@ and they control the game settings and binds as follows:
 
 - dota2_functions_active.cfg
 
-This file holds all the aliases and custom defined functions made by the use.
+This file holds all the aliases and custom defined functions made by the user.
 
 
 - dota2_keybinds_default.cfg
@@ -85,16 +70,9 @@ These two files are loaded depending on which mode is enabled by my engine(quick
 
 ---------------------------------------------------------
 Inside this folder, you will have hero custom configs that 
-you can load by typing a command in the console. 
+you can load by typing a command in the console (or setting up a bind). 
 They're used to add custom keybinds that were designed 
 specifically for a single hero. 
 Check the readme inside the folder on how to use them.
 ---------------------------------------------------------
 
-
-
-//////////////////////////////////////////////////////////
-	dota2_caster_mode folder
-//////////////////////////////////////////////////////////
-
-This is something I'll work in the future to aid casters.
