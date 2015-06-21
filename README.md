@@ -44,7 +44,7 @@ Just go into the autoexec.cfg file and change the "dota_remap_alt_key" command t
 **My in-game item/ability labels are blank, can't I put the keys there?**
 
 From the files you can't really do that, but because the ALT key was remapped, you can put ALT+QWER/DFXCMouse5 or whatever the keys are on each keybind, and you will have "Alt+Q", "Alt+W"... displayed in-game, even though those are actually (Tilde+Q, Tilde+W...) and no conflicts will exist. I do it like that just as a visual hack to see my key.
-Mine looks like this - http://i.imgur.com/ZMlrp16.png (the ALT+Key keybinds are actually Tilde+Key in my super compact layout, and they don't conflict; I just use them to have some labels on my items in-game)
+Mine looks like [this](http://i.imgur.com/ZMlrp16.png) (the ALT+Key keybinds are actually Tilde+Key in my super compact layout, and they don't conflict; I just use them to have some labels on my items in-game)
  
 **The quick attack and quick follow commands don't seem to work for me. Why?**
 
