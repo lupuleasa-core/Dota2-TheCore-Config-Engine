@@ -1,6 +1,5 @@
-////////////////////////////////////////////////////
-//What is this
-////////////////////////////////////////////////////
+What is this?
+===========================================
  
 This is a system of .cfg files that control all aspects of the game.
 
@@ -9,9 +8,8 @@ Using this, you have full control over what volvo gave you in-game, meaning you 
  Easy to share, easy to customise.
  
  
-////////////////////////////////////////////////////
-//How to set it up
-////////////////////////////////////////////////////
+How to set it up
+-------------------------------------------
  
 1. Remove all in-game keybinds (by left clicking a bind, then right clicking it if you are in Dota 2 Legacy Source 1 or by pressing a far away key like KP_MINUS if you are in Dota 2 Reborn Source 2). Do this for all your binds.
  
@@ -23,11 +21,9 @@ Using this, you have full control over what volvo gave you in-game, meaning you 
 
 5. Once the game loads, the autoexec.cfg gets executed automatically and you'll hear a sound. Alternatively, press (default) F8 in-game to reload it or force it by opening up the console and typing "exec autoexec.cfg".
 
- 
- 
-////////////////////////////////////////////////////
-//Frequently Asked Questions
-////////////////////////////////////////////////////
+
+Frequently Asked Questions
+------------------------------------------------
  
 - Do I have to remove ALL the in-game keybinds?
 
@@ -56,10 +52,8 @@ You must be running dota on a mac or Linux, where +sixense_left_click doesn't re
 Additionally, the new Source 2 engine doesn't allow to simulate right-clicks.
  
  
- 
-////////////////////////////////////////////////////
-//How it works?
-////////////////////////////////////////////////////
+How does it work?
+--------------------------------------------------
  
 I turned the autoexec.cfg file that is loaded and executed automatically by the dota2 client into an engine that loads and combines my other .cfg files I created into a flexible keyboard layout that is easy to modify once you get the hang of it. 
 
@@ -70,10 +64,8 @@ Each config file has its role.
 Once you understand what each does, it's easy to tweak.
 
 
-
-////////////////////////////////////////////////////
-//Made a cool keyboard layout and want to share it?
-////////////////////////////////////////////////////
+Made a cool keyboard layout and want to share it?
+-------------------------------------------------
 
 Contact me on reddit at /u/loopuleasa and I might add it to the main repository for people to see and I shall give you credit.
 If you know how to use git, just pull this repo and request a merge.
