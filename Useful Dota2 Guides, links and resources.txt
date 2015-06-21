@@ -1,12 +1,4 @@
 ////////////////////////////////////////////////////////////
-//Launch options I use
-////////////////////////////////////////////////////////////
-
-//-novid -noforcemaccel -noforcemspd -useforcedmparms -high -windowed -w 1920 -h 1080 -noborder -override_vpk
- 
-
-
-////////////////////////////////////////////////////////////
 //Contact threads
 ////////////////////////////////////////////////////////////
 
@@ -16,6 +8,11 @@
 
 //Reddit thread for Super Compact Layout v3.3: http://www.reddit.com/r/DotA2/comments/2gd3gc/the_config_guy_here_once_again_bringing_the_v32/
 
+// Reddit thread for Super Compact Layout v4.0: http://www.reddit.com/r/DotA2/comments/2hp5nq/config_guy_here_releasing_the_v40_of_my_super/
+
+// Reddit thread for Super Compact Layout v4.3: http://www.reddit.com/r/DotA2/comments/2l9ino/config_guy_here_with_another_update_to_the_super/
+
+// Reddit thread for Super Compact Layout v5.0: http://www.reddit.com/r/DotA2/comments/3aa096/config_guy_here_bringing_you_a_dota_2_reborn/
 
 
 ////////////////////////////////////////////////////////////
