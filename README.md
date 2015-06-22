@@ -1,7 +1,7 @@
 What is this?
 ===========================================
  
-This is a system of .cfg files that gives you control all aspects of the game.
+This is a system of .cfg files that controls almost all aspects of the game.
 
 Using this, you have full control over what volvo lets you configure- you can tweak every aspect of the game by modifying text files, and also create special functions and keybinds that are not possible to make from the in-game menu.
  
@@ -29,7 +29,7 @@ How to uninstall?
 
 2. Set your keybinds back the way you want them
 
-3. Run this command in the console to enable double-tap for self-cast
+3. Run this command in the console to enable double-tap for self-cast (if it was affected by the setup in any way)
 
     *"dota_ability_self_cast_timeout 0.5"*
 
@@ -63,6 +63,9 @@ Mine [looks like this](http://i.imgur.com/ZMlrp16.png) (the ALT+Key keybinds are
 
 This is probably because you are running dota on OSX or Linux, where +sixense_left_click doesn't really work as a normal click.
 Additionally, the new Source 2 engine doesn't allow simulated right-clicks.
+
+**Does CAPSLOCK still do what it usually does, even if it's a keybind?**
+ YES OF COURSE, BUT IT'S A KEY IN SUCH A USEFUL POSITION THAT YOU MIGHT AS WELL USE IT. I RARELY TYPE IN CHAT ANYWAY.
  
  
 How does it work?
@@ -79,4 +82,4 @@ Made a cool keyboard layout and want to share it?
 -------------------------------------------------
 
 Contact me on reddit at /u/loopuleasa and I might add it to the main repository for people to see and I'll give you credit.
-If you know how to use git, just pull this repo and request a merge.
+If you know how to use git, just fork this repo and request a merge using a pull request.
