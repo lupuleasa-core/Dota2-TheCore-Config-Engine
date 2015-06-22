@@ -8,7 +8,7 @@ Using this, you have full control over what volvo lets you configure- you can tw
  Easy to share, easy to customise.
  
  
-How to set it up
+How to set it up?
 -------------------------------------------
  
 1. Remove **all** in-game keybinds (by left clicking a bind, then right clicking it if you are in Dota 2 Legacy Source 1 or by pressing a far away key like KP_MINUS if you are in Dota 2 Reborn Source 2). 
@@ -20,6 +20,19 @@ How to set it up
 4. You can modify the files however you want to match your preference, but make sure to read and understand what the files do. The main files which control the binds are the keybinds_default, keybinds_alt_pressed and keybinds_space_pressed.
 
 5. Once the game loads, the autoexec.cfg will be executed automatically and you'll hear a sound. Alternatively, press (default) F8 in-game to reload it or force a reload by opening up the console and typing "exec autoexec.cfg".
+
+
+How to uninstall?
+------------------------------------------------
+
+1. Just delete the files you pasted in the /cfg folder.
+
+2. Set your keybinds back the way you want them
+
+3. Run this command in the console to enable double-tap for self-cast
+
+    *"dota_ability_self_cast_timeout 0.5"*
+
 
 
 Frequently Asked Questions
