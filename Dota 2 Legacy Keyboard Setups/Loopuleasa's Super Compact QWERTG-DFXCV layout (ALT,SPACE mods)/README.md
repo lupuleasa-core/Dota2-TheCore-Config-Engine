@@ -49,4 +49,12 @@ They're used to add custom keybinds that were designed
 specifically for a single hero. 
 Check the readme inside the folder on how to use them.
 
+## Keybinding Layout
+
+#### No Modifier
+![No mod](keyboard%20layout%20visual%20images/visual_layout_nomod.png)
+#### Alt Modifier
+![Alt](keyboard%20layout%20visual%20images/visual_layout_alt.png)
+#### Space Modifier
+![Space](keyboard%20layout%20visual%20images/visual_layout_space.png)
 
