@@ -21,24 +21,29 @@ It's just efficient. Take a look:
 
 
 ####Now for Dota 2 Reborn!
-Some functions do not work in Source 2, like:
+Some functions do not work in Source 2:
 - left clicks
-- console output
-- playing hero/item sounds
-- netgraph
-- toggle health segmentation (command still there, toggle is not)
 
 **NEW** Functions:
 - hold right click to issue move
 - Tilde + Right Click = move directly / face that way
+- netgraph
+- toggle health segmentation
+- playing hero/item sounds
+- text output as student chat
+- smartcasting aliases (not bound to any key, but can be used)
+- added quick attack (default A key)
+- Change the cast mode on a per key basis for items and abilities (default Alt+Space+Key)
+- Enable right click deny toggles (using default U key)
+- Enable right click deny ON (using default O key)
 
 Supported customization:
 - Alt as modifier key
 - Space as modifier key
-- Quickcast/Normal cast mode toggle
+- Quickcast/Normal cast mode toggle (for individual keys)
 - Hero custom modes
 - Split config files structure, for ease of editing
-- Really compact keybind reachable by your hand
+- Really compact keybind reachable to your hand
 
 ##Autoexec engine
 
