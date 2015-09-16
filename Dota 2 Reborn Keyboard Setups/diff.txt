@@ -1,0 +1,79 @@
+Common subdirectories: Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/aliases and [German Keyboard] Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/aliases
+diff "Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_alt_pressed.cfg" "[German Keyboard] Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_alt_pressed.cfg"
+18,20d17
+< //  Cancel any pending smart-cast actions
+< smart_cancel
+< 
+27,32c24,29
+< bind "mouse5" "self_item_0"
+< bind "D" "self_item_1"
+< bind "F" "self_item_2"
+< bind "X" "self_item_3"
+< bind "C" "self_item_4"
+< bind "V" "self_item_5"
+---
+> bind "mouse5" "dota_item_execute 0;dota_item_execute 0"
+> bind "D" "dota_item_execute 1;dota_item_execute 1"
+> bind "F" "dota_item_execute 2;dota_item_execute 2"
+> bind "X" "dota_item_execute 3;dota_item_execute 3"
+> bind "C" "dota_item_execute 4;dota_item_execute 4"
+> bind "V" "dota_item_execute 5;dota_item_execute 5"
+35,40c32,37
+< bind "Q" "self_ability_0"
+< bind "W" "self_ability_1"
+< bind "E" "self_ability_2"
+< bind "T" "self_ability_3"
+< bind "G" "self_ability_4"
+< bind "R" "self_ability_5"
+---
+> bind "Q" "dota_ability_execute 0;dota_ability_execute 0"
+> bind "W" "dota_ability_execute 1;dota_ability_execute 1"
+> bind "E" "dota_ability_execute 2;dota_ability_execute 2"
+> bind "T" "dota_ability_execute 3;dota_ability_execute 3"
+> bind "G" "dota_ability_execute 4;dota_ability_execute 4"
+> bind "R" "dota_ability_execute 5;dota_ability_execute 5"
+49c46
+< bind "Z" "toggle_segments"
+---
+> bind "Y" "toggle_segments"
+diff "Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_alt_space_pressed.cfg" "[German Keyboard] Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_alt_space_pressed.cfg"
+15,17d14
+< //  Cancel any pending smart-cast actions
+< smart_cancel
+< 
+diff "Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_default.cfg" "[German Keyboard] Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_default.cfg"
+18,20d17
+< //  Cancel pending Smart-cast actions
+< smart_cancel
+< 
+38c35
+< bind "\" "toggleconsole"
+---
+> bind "A_WITH_DIAERESIS" "toggleconsole"
+60c57
+< bind "Z" "dota_recent_event;"
+---
+> bind "Y" "dota_recent_event;"
+78c75
+< bind "Y" dota_ability_learn_mode
+---
+> bind "Z" dota_ability_learn_mode
+123,124c120,121
+< bind "[" "use_item_client player_loadout action_item"
+< bind "]" "use_item_client current_hero taunt"
+---
+> bind "PLUS" "use_item_client player_loadout action_item"
+> bind "HASH" "use_item_client current_hero taunt"
+diff "Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_space_pressed.cfg" "[German Keyboard] Loopuleasa's Super Compact QWERTG-DFXCV layout (ALT,SPACE mods)/dota2_gameplay_mode/dota2_keybinds_space_pressed.cfg"
+18c18
+< //  Enable right click deny when space is pressed, and toggle mode is enabled
+---
+> // Enable right click deny when space is pressed, and toggle mode is enabled
+21,23d20
+< //  Cancel any pending smart-cast actions
+< smart_cancel
+< 
+107c104
+< bind "Z" "orb_toggle"
+---
+> bind "Y" "orb_toggle"
