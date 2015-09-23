@@ -1,29 +1,49 @@
-#Loopuleasa's Super Compact QWERTG-DFXCV German Keyboard
+#Loopuleasa's Super Compact QWERTG-DFXCV German Layout
 
 This keyboard layout is what I currently use and I'm constantly tweaking it until I get an optimal layout.
 Each file has a role, and modify what you want in it.
 These aren't hacks, nor they are unfair, since one game action translates to one keystroke.
-It's just efficient.
+It's just efficient. Take a look:
+
+##Normal Mode - Quick Cast (no modifier keys pressed)
+
+![](https://raw.githubusercontent.com/loopuleasa/Dota2-TheCore-Config-Engine/master/Dota%202%20Reborn%20Keyboard%20Setups/Loopuleasa's%20Super%20Compact%20QWERTG-DFXCV%20layout%20%28ALT%2CSPACE%20mods%29/keyboard%20layout%20visual%20images/visual_layout_nomod.png)
+
+##Secondary Mode - Normal Cast (space modifier key pressed)
+
+![](https://raw.githubusercontent.com/loopuleasa/Dota2-TheCore-Config-Engine/master/Dota%202%20Reborn%20Keyboard%20Setups/Loopuleasa's%20Super%20Compact%20QWERTG-DFXCV%20layout%20%28ALT%2CSPACE%20mods%29/keyboard%20layout%20visual%20images/visual_layout_space.png)
+
+##Tertiary Mode - Self Cast (alt modifier key pressed)
+
+![](https://raw.githubusercontent.com/loopuleasa/Dota2-TheCore-Config-Engine/master/Dota%202%20Reborn%20Keyboard%20Setups/Loopuleasa's%20Super%20Compact%20QWERTG-DFXCV%20layout%20%28ALT%2CSPACE%20mods%29/keyboard%20layout%20visual%20images/visual_layout_alt.png)
+
+
+
 
 ####Now for Dota 2 Reborn!
-Some functions do not work in Source 2, like:
+Some functions do not work in Source 2:
 - left clicks
-- console output
-- playing hero/item sounds
-- netgraph
-- toggle health segmentation (command still there, toggle is not)
 
 **NEW** Functions:
 - hold right click to issue move
 - Tilde + Right Click = move directly / face that way
+- netgraph
+- toggle health segmentation
+- playing hero/item sounds
+- text output as student chat
+- smartcasting aliases (not bound to any key, but can be used)
+- added quick attack (default A key)
+- Change the cast mode on a per key basis for items and abilities (default Alt+Space+Key)
+- Enable right click deny toggles (using default U key)
+- Enable right click deny ON (using default O key)
 
 Supported customization:
 - Alt as modifier key
 - Space as modifier key
-- Quickcast/Normal cast mode toggle
+- Quickcast/Normal cast mode toggle (for individual keys)
 - Hero custom modes
 - Split config files structure, for ease of editing
-- Really compact keybind reachable by your hand
+- Really compact keybind reachable to your hand
 
 ##Autoexec engine
 
