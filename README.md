@@ -17,7 +17,7 @@ Easy to share, easy to customise.
  
 4. You can modify the files however you want to match your preference, but make sure to read and understand what the files do. There are plenty of comments and files. The main files which control the binds are the `keybinds_default`, `keybinds_alt_pressed` and `keybinds_space_pressed`.
 
-5. Once the game loads, the autoexec.cfg will be executed automatically and you'll hear a midas sound. Alternatively, press (default) F8 in-game to reload it or force a reload by opening up the console and typing `exec autoexec.cfg`.
+5. Once the game loads, the autoexec.cfg will be executed automatically and you'll hear a midas sound. Alternatively, press F8 in-game to reload it or force a reload by opening up the console and typing `exec autoexec.cfg`.
 
 
 ### How to uninstall?
