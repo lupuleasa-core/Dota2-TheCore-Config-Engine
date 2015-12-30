@@ -2,16 +2,16 @@
  
 This is a system of .cfg files that controls almost all aspects of the game.
 
-Using this, you have full control over what volvo lets you configure- you can tweak every aspect of the game by modifying text files, and also create special functions and keybinds that are not possible to make from the in-game menu.
+Using this, you have full control over what Valve lets you configure: you can tweak every aspect of the game by modifying text files, and also create special functions and keybinds that are not possible to make from the in-game menu.
  
- Easy to share, easy to customise.
+Easy to share, easy to customise.
  
  
 ### How to set it up?
  
 1. **Remove _all_ in-game keybinds.**  Do this by left clicking a bind andpressing a far away key like KP_MINUS. 
 
-2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn or Legacy folders, depending on which you play). You can look in the "keyboard layout visual images" folder to see how the layout will be. I **recommend** using (my)  "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
+2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn or Legacy folders, depending on which you play). You can look in the __keyboard layout visual images__ folder to see how the layout will be. I *recommend* using "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
 
 3. Copy the contents from INSIDE of the folder you chose to `\Steam\SteamApps\common\dota 2 beta\game\dota\cfg\`. *Keep the file structure you see inside the folder as it is.*
  
@@ -54,7 +54,7 @@ You can keep a few keybinds but they will override the .cfg files, but I cannot 
 
 That must be because of your non-standard keyboard. There is a maintained German keyboard layout you should try if you are German, if not you should consider changing your keyboard layout to standard English in Windows options. 
 
-For Tilde pinging, some exotic codes for that key are not recognized by the Source engine. Right now, Tilde on English keyboards is "`". If you type your Tilde key and it doesn't look like that <<< it's probably why it isn't working.
+For Tilde pinging, some exotic codes for that key are not recognized by the Source engine. Right now, Tilde on English keyboards is "`". If you type your Tilde key and it doesn't look like that then you know why it isn't working.
 
 ##### It says the Alt key was remapped to Tilde, but I still have to press Alt+Click on items and abilities to type in chat. Why is this the case?**
 
@@ -81,14 +81,14 @@ Mine [looks like this](http://i.imgur.com/ZMlrp16.png) (the ALT+Key keybinds are
  
 ##### Does CAPSLOCK still do what it usually does, even if it's a keybind?
 
-YES OF COURSE, BUT IT'S A KEY IN SUCH A USEFUL POSITION THAT YOU MIGHT AS WELL USE IT. I RARELY TYPE IN CHAT ANYWAY.
+YES OF COURSE, BUT IT'S A KEY IN SUCH A USEFUL POSITION THAT YOU MIGHT AS WELL USE IT.  Alternatively, you may change the keybind, or even [change how windows handles that pesky button atogether](http://www.howtogeek.com/194705/how-to-disable-or-reassign-the-caps-lock-key-on-any-operating-system/). __Note that if you remap CAPSlock in windows, you will also need to do so in your dota config.__
  
  
 ### How does it work?
  
-I turned the autoexec.cfg file that is loaded and executed automatically by the dota2 client into an engine that loads and combines my other .cfg files  into a flexible keyboard layout which is easy to modify once you get the hang of it. 
+The `autoexec.cfg` file is loaded and executed automatically by the dota2 client which acts as an engine which loads and combines other .cfg files into a flexible keyboard layout which is easy to modify. 
 
-Take a sniff through the files- there are usually plenty of explanatory comments in each .cfg file.
+Take a sniff through the files—there are plenty of explanatory comments in each .cfg file.
 
 Each config file has its role. Once you understand what each does, it's easy to tweak.
 
