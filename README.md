@@ -9,15 +9,15 @@ Easy to share, easy to customise.
  
 ### How to set it up?
  
-1. **Remove _all_ in-game keybinds.**  Do this by left clicking a bind andpressing a far away key like KP_MINUS. 
+1. **Remove _all_ in-game keybinds.**  Do this by left clicking on a bind and then pressing a far away key like KP_MINUS. *If you want to be safe, press F12 in-game to save a screenshot of your binds so you don't forget them if you ever wish to go back and uninstall my engine.*
 
-2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn or Legacy folders, depending on which you play). You can look in the __keyboard layout visual images__ folder to see how the layout will be. I *recommend* using "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
+2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn folder). You can look in the __keyboard layout visual images__ folder to see how the layout will be. I *recommend* using "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
 
-3. Copy the contents from INSIDE of the folder you chose to `\Steam\SteamApps\common\dota 2 beta\game\dota\cfg\`. *Keep the file structure you see inside the folder as it is.*
+3. Copy the contents from INSIDE of the folder you've chosen to `\Steam\SteamApps\common\dota 2 beta\game\dota\cfg\`. *Keep the file structure you see inside the folder as it is.*
  
-4. You can modify the files however you want to match your preference, but make sure to read and understand what the files do. There are plenty of comments and files. The main files which control the binds are the `keybinds_default`, `keybinds_alt_pressed` and `keybinds_space_pressed`.
+4. You can modify the files however you want to match your preference, but make sure to read and understand what the files do. There are plenty of comments inside them. The main files which control the binds are the `keybinds_default`, `keybinds_alt_pressed` and `keybinds_space_pressed`.
 
-5. Once the game loads, the autoexec.cfg will be executed automatically and you'll hear a midas sound. Alternatively, press F8 in-game to reload it or force a reload by opening up the console and typing `exec autoexec.cfg`.
+5. Once the game loads, the autoexec.cfg will be executed automatically and you'll hear a Hand of Midas sound. Alternatively, press F8 in-game to reload it or force a reload by opening up the console and typing `exec autoexec.cfg`.
 
 
 ### How to uninstall?
@@ -88,7 +88,7 @@ YES OF COURSE, BUT IT'S A KEY IN SUCH A USEFUL POSITION THAT YOU MIGHT AS WELL U
  
 The `autoexec.cfg` file is loaded and executed automatically by the dota2 client which acts as an engine which loads and combines other .cfg files into a flexible keyboard layout which is easy to modify. 
 
-Take a sniff through the files—there are plenty of explanatory comments in each .cfg file.
+Take a sniff through the filesâ€”there are plenty of explanatory comments in each .cfg file.
 
 Each config file has its role. Once you understand what each does, it's easy to tweak.
 
