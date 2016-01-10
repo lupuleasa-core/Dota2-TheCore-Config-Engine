@@ -14,6 +14,8 @@
 
 // Reddit thread for Super Compact Layout v5.0: http://www.reddit.com/r/DotA2/comments/3aa096/config_guy_here_bringing_you_a_dota_2_reborn/
 
+// Reddit thread for TheCore: https://www.reddit.com/r/DotA2/comments/3alrm9/config_guy_here_its_now_official_we_are_releasing/csdvqe0
+
 
 ////////////////////////////////////////////////////////////
 //Useful Links (for Dota 2 Source 2)
