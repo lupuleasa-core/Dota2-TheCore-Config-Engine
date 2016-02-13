@@ -1,0 +1,9 @@
+* text=auto
+
+*.cfg text
+*.txt text
+*.vcfg text
+
+.sln text eol=crlf
+
+*.png binary
