@@ -1,7 +1,1 @@
-* text=auto
-
-*.cfg text eol=crlf
-*.txt text eol=crlf
-*.vcfg text eol=crlf
-
-*.png binary
+* text eol=crlf
