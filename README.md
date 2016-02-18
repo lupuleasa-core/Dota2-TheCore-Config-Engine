@@ -34,11 +34,6 @@ Easy to share, easy to customise.
 
 
 ### Frequently Asked Questions
-
- 
-##### The readme files are unreadable to me, unless I view them on Github directly.
-
-Use a proper text program like Notepad++.
  
 ##### I can't double-tap to self-cast nor can I change wards with double-tap.
 
