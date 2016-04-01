@@ -31,7 +31,7 @@ Easy to share, easy to customise.
 
     `dota_ability_self_cast_timeout 0.5`
 
-*Note: Double tap selfcast is intentionally **disabled to prevent miscasts**. This was done by making the tolerance so low only scripts can trigger it.*
+*Note: Double tap selfcast is intentionally disabled to prevent miscasts. This was done by making the tolerance so low only scripts can trigger it.*
 
 
 ### Frequently Asked Questions
