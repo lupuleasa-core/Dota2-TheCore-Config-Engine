@@ -1,1 +1,22 @@
 * text eol=crlf
+
+*.cfg text
+*.vcfg text
+*.txt text
+
+# git config
+.gitattributes text
+.gitignore text
+.gitconfig text
+
+# Documentation
+*.md text
+LICENSE text
+AUTHORS text
+
+## These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
