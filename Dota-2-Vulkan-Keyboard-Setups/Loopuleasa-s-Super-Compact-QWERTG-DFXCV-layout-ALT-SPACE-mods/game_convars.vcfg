@@ -1,0 +1,10 @@
+"config"
+{
+	"convars"
+	{
+		"cl_updaterate"		"30"
+		"mat_motion_blur_enabled"	"0"
+		"snd_foliage_db_loss"	"0"
+		"exec"       "autoexec.cfg"
+	}
+}
