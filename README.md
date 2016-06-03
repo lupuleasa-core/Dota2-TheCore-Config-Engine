@@ -11,7 +11,7 @@ Easy to share, easy to customise.
 
 1. **Remove _all_ in-game keybinds.**  Do this by left clicking on a bind, then click the `X` that appears. *If you want to be safe, press <kbd>F12</kbd> in-game to save a screenshot of your binds so you don't forget them if you ever wish to go back and uninstall my engine.*
 
-2. Choose one of the keyboard layouts (found inside either the Dota2 Reborn folder). You can look in the __keyboard layout visual images__ folder to see how the layout will be. I *recommend* using "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
+2. Choose one of the keyboard layouts (found inside either the Dota2 Vulkan folder). You can look in the __keyboard layout visual images__ folder to see how the layout will be. I *recommend* using "loopuleasa's super compact layout" since it's the one we've worked the most on. If you are experienced, you can take the Dota2 Core and start building your layout from scratch.
 
 3. Copy the contents **from inside of the folder** you've chosen to `\Steam\SteamApps\common\dota 2 beta\game\dota\cfg\`. *Keep the file structure you see inside the folder as it is.*  
 **There are two `dota\cfg` folders, one is in the `game` subfolder, one is not, make sure not to confuse them.**
