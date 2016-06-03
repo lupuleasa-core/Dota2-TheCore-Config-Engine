@@ -1,0 +1,38 @@
+"config"
+{
+	"convars"
+	{
+		"sc_threaded_present" "1"
+		"r_drawskybox" "0"
+		"r_drawviewmodel" "0"
+		"sc_force_lod_level" "0"
+		"r_occlusion_culling" "0"
+		"r_nearz" "1.0"
+		"r_drawvgui" "0"
+		"r_drawscaleform" "1"
+		"r_drawgameui" "0"
+		"snd_mute_losefocus" "0"
+		"r_size_cull_threshold" "0"
+		"r_size_cull_threshold_shadow" "999999"
+		"mat_viewportscale" "1"
+		"mat_viewportupscale" "1"
+		
+		"vr_anchor_use_player_start" "0"
+
+		"r_dota_shadows" "0"
+		"fow_client_visibility" "1"
+		"dota_no_minimap" "1"
+		"dota_unit_health_bar_offset" "100000" // Moves the vgui health bars way off the top of the screen
+		"dota_draw_portrait" "0"
+
+		"r_dota_draw_water" "1"
+		"dota_cheap_water" "1"
+
+		"fog_override_enable" "0"
+		"fog_override_start" "20000"
+		"fog_override_end" "30000"
+		"fog_override_max_density" "1"
+
+		"vr_world_scale" "0.39370f" // Inches to centimeters
+	}
+}
