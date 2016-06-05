@@ -260,17 +260,15 @@ Send {F12 up}
 Return
 
 Space & 1::
+Keywait, Space
 Send {1}
-Send {1 down}
-Keywait, 1
-Send {1 up}
+Send {1}
 Return
 
 Space & 2::
+Keywait, Space
 Send {2}
-Send {2 down}
-Keywait, 2
-Send {2 up}
+Send {2}
 Return
 
 Space & 3::
