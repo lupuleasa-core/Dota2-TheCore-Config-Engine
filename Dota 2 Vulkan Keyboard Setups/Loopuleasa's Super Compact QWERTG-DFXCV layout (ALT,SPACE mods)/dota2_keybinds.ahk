@@ -516,6 +516,16 @@ u::
 		Send {u up}
 	}
 Return
+Space & u::
+Send {u down}
+Keywait, u
+Send {u up}
+Return
+!u::
+Send {u down}
+Keywait, u
+Send {u up}
+Return
 
 o::
 Send {vk29} //Select
@@ -524,6 +534,16 @@ Send {o down}
 j=1
 k=0
 Keywait,  o
+Send {o up}
+Return
+Space & o::
+Send {o down}
+Keywait, o
+Send {o up}
+Return
+!o::
+Send {o down}
+Keywait, o
 Send {o up}
 Return
 
