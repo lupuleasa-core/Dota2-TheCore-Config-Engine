@@ -554,6 +554,18 @@ Keywait, p
 Send {p up}
 Return
 
+Capslock::
+Send {Capslock down}
+Keywait, Capslock
+Send {Capslock up}
+SetCapsLockState, Off
+Return
+Space & Capslock::
+Send {Capslock down}
+Keywait, Capslock
+Send {Capslock up}
+SetCapsLockState, Off
+Return
 !Capslock::
 If e=0
 {
@@ -562,6 +574,7 @@ If e=0
 	e=1
 	Keywait, Capslock
 	Send {NumpadAdd up}
+	SetCapsLockState, Off
 }
 Else
 {
@@ -570,6 +583,7 @@ Else
 	e=0
 	Keywait, Capslock
 	Send {NumpadAdd up}
+	SetCapsLockState, Off
 }
 Return
 
