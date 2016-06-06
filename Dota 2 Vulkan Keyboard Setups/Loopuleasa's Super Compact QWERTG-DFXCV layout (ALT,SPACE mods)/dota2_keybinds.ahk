@@ -272,66 +272,57 @@ Send {2}
 Return
 
 Space & 3::
+Keywait, Space
 Send {3}
-Send {3 down}
-Keywait, 3
-Send {3 up}
+Send {3}
 Return
 
 Space & 4::
+Keywait, Space
 Send {4}
-Send {4 down}
-Keywait, 4
-Send {4 up}
+Send {4}
 Return
 
 Space & 5::
+Keywait, Space
 Send {5}
-Send {5 down}
-Keywait, 5
-Send {5 up}
+Send {5}
 Return
 
 Space & 6::
+Keywait, Space
 Send {6}
-Send {6 down}
-Keywait, 6
-Send {6 up}
+Send {6}
 Return
 
 Space & 7::
+Keywait, Space
 Send {7}
-Send {7 down}
-Keywait, 7
-Send {7 up}
+Send {7}
 Return
 
 Space & 8::
+Keywait, Space
 Send {8}
-Send {8 down}
-Keywait, 8
-Send {8 up}
+Send {8}
 Return
 
 Space & 9::
+Keywait, Space
 Send {9}
-Send {9 down}
-Keywait, 9
-Send {9 up}
+Send {9}
 Return
 
 Space & 0::
+Keywait, Space
 Send {0}
-Send {0 down}
-Keywait, 0
-Send {0 up}
+Send {0}
 Return
 
 Space & -::
+Keywait, Space
 Send {-}
-Send {- down}
-Keywait, -
-Send {- up}
+Send {-}
 Return
 
 =::
