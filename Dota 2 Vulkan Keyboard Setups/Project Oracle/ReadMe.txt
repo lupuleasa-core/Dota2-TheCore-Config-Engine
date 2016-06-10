@@ -1,3 +1,7 @@
+Where did you get the name "Project Oracle"?
+Oracle is the only hero for which every ability benefits from all three cast types.
+
+
 To Install: 
 1. Choose between "Basic" or "Advance".
 2. place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
