@@ -51,3 +51,9 @@ Space plus double-tap self-casts these abilities.
 4. Rubick's Stollen Spell (Could be anything and must have all 3 casts)
 5. And all auto-cast abilities (self-cast toggles them on or off)
 6. Pugna's Nether Ward
+
+
+
+Known Issues:
+1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
+Only affects Ogre Magi, Lich, and neutral troll priest. This is a valve bug and out of my control.
