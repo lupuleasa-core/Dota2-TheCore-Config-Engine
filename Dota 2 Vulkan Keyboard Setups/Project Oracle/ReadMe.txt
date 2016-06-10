@@ -53,8 +53,8 @@ Space plus double-tap self-casts these abilities.
 2. Earth Shaker's Enchant Totem with a Scepter
 3. Invoker's Alacrity (Default-cast is important to other spells)
 4. Rubick's Stollen Spell (Could be anything and must have all 3 casts)
-5. And all auto-cast abilities (self-cast toggles them on or off)
-6. Pugna's Nether Ward
+5. Pugna's Nether Ward
+6. And all auto-cast abilities (self-cast toggles them on or off)
 
 
 
