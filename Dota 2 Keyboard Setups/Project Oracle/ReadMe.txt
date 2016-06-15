@@ -72,7 +72,7 @@ The changes are listed below:
 16. Shadow Demon qwert
 
 If you would like to change a specific hero, you can do so in-game.
-Ever since this project remapped qwedfr to qwetgr heroes like morphling and timbersaw were harder to play 
+Ever since this project remapped qwedfr to qwetgr heroes like morphling were harder to play 
 since the 3rd ability and 4th ability were no longer next to each other on the keyboard. Now, they are
 adjacent again. The obscure order of the abilities for these 16 heroes comes from DotA 1's legacy keys.
 I find this order to be much easier. You can easily change the ones you don't like.
