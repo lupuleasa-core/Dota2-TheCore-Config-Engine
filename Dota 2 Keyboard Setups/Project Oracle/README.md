@@ -48,7 +48,6 @@ Space plus double-tap self-casts these abilities.
 3. Invoker's Alacrity (Default-cast is important to other spells)
 4. Rubick's Stollen Spell (Could be anything and must have all 3 casts)
 5. Pugna's Nether Ward
-6. And all auto-cast abilities (self-cast toggles them on or off)
 
 Advanced mode also makes use of smart ordering of hotkeys for some heroes which have more than four abilities.
 The changes are listed below:
