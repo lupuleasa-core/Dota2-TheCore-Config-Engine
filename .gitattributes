@@ -21,3 +21,4 @@ AUTHORS text
 *.jpeg binary
 *.gif binary
 *.vpk binary
+*.reg binary
