@@ -6,9 +6,15 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 
 To Install: 
 1. Run DisableWinKey.reg to disable your WinKey shortcuts and mobiliy center (if you want to use the x key).* **
+
 2. place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
+
 3. place the "570" folder inside of "Steam\userdata\[Your 9 digit Steam ID here]" and overwrite
-4. launch DotA 2 and customize in-game.
+
+4. Reboot your computer
+
+5. launch DotA 2 and customize in-game.
+
 *If you have done anything to your windows key to disable you must undo that first. Alternatively you could
 install the Linux or Mac version but you will only have 1 modifier instead of 2.
 **To undo my registry edits in step 1 you obvisouly run EnableWinKey.reg
