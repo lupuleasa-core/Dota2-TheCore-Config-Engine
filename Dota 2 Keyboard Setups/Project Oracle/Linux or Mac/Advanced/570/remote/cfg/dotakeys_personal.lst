@@ -1009,6 +1009,10 @@
 			"Modifier"		"ALT"
 		}
 	}
+	"HeroBuildNagCount2"		"0"
+	"HeroBuilds"
+	{
+	}
 	"PerUnitKeybinds"		"1"
 	"Units"
 	{
@@ -14013,10 +14017,5 @@
 				"Mode"		"0"
 			}
 		}
-	}
-	"HeroBuildNagCount2"		"3"
-	"HeroBuilds"
-	{
-		"tiny"		"workshop: 129064094"
 	}
 }
