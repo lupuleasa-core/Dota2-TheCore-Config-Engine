@@ -1015,6 +1015,10 @@
 			"Modifier"		"ALT"
 		}
 	}
+	"HeroBuildNagCount2"		"0"
+	"HeroBuilds"
+	{
+	}
 	"PerUnitKeybinds"		"1"
 	"Units"
 	{
