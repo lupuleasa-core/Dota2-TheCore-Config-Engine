@@ -1067,11 +1067,6 @@
 	"HeroBuildNagCount2"		"3"
 	"HeroBuilds"
 	{
-		"medusa"		"workshop: 129403206"
-		"shredder"		"workshop: 695002747"
-		"antimage"		"workshop: 128960249"
-		"invoker"		"cloud: guides/invoker_1462058953.build"
-		"phantom_assassin"		"workshop: 128920907"
 	}
 	"PerUnitKeybinds"		"1"
 	"Units"
