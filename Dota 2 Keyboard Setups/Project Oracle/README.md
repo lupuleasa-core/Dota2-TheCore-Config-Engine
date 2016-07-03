@@ -15,7 +15,7 @@ To Install:
 
 5. launch DotA 2 and customize in-game.
 
-*If you have done anything to your windows key to disable you must undo that first. Alternatively you could
+* If you have done anything to your windows key to disable you must undo that first. Alternatively you could
 install the Linux or Mac version but you will only have 1 modifier instead of 2.
 **To undo my registry edits in step 1 you obvisouly run EnableWinKey.reg
 
