@@ -4,7 +4,8 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 //////////////////////////////////////////////////////////////////////////////////////
 // Windows //////////////////////////////////////////////////////////////////////
 
-To Install: 
+To Install:
+
 1. Run DisableWinKey.reg to disable your WinKey shortcuts and mobiliy center (if you want to use the x key). A) B)
 
 2. place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
