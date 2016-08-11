@@ -15,7 +15,7 @@ To Install:
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
 
-3. Place the "570" folder inside of "Steam\userdata\Your 9 digit Steam ID here" and overwrite
+3. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite
 
 4. Reboot your computer or run the .exe you chose from step 1 manually
 
