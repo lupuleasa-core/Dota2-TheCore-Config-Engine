@@ -31,26 +31,47 @@ Customization:
 Project Oracle makes use of smart ordering of hotkeys for some heroes which have more than four abilities.
 You can easily get rid of the ones you don't like in game by clicking the clear button for a particular hero.
 The affected heroes are listed below:
+
 1. Earth Spirit
+
 2. IO
+
 3. Lifestealer
+
 4. Phoenix
+
 5. Timbersaw
+
 6. Lone Druid
+
 7. Morphling
+
 8. Spectre
+
 9. Templar Assasin
+
 10. Chen
+
 11. Keeper of the Light
+
 12. Ogre Magi
+
 13. Puck
+
 14. Rubick
+
 15. Shadow Demon
+
 16. Techies
 
+
+
 Known Issues:
+
 1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
 Only affects Ogre Magi, Lich, and neutral troll priest. This is a valve bug and out of my control.
 
+
 Work-arounds:
+
 1. You have to Alt-Tab out of dota using LCtrl-Tab for now.
