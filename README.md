@@ -9,7 +9,7 @@ At Project Oracle we believe that no player should gain an in-game advantage fro
 ### How to set it up?
 
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
-   You can use the .ahk instead if you have installed AutoHotKey.
+   You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
 
