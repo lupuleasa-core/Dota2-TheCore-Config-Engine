@@ -1,12 +1,21 @@
 Where did you get the name "Project Oracle"?
 Oracle is the only hero for which every ability benefits from all three cast types.
 
+
+
 Mission:
+
 To implement two modifiers for Windows users.
+
 SteamOS users can already use the super key as a modifier by default and other linux users can disable ALL of their super key shortcuts inorder to use two modifiers in DotA 2.
+
 By using a very small ahk script (15 lines of code), the Windows key can be sent to dota2.exe but not to the Windows OS when LAlt is pressed. 
+
 This allows Windows users to enjoy two modifiers aswell. The best part about it is you can still use your Windows Key shortcuts outside of DotA!
+
 If you prefer to disable your Windows Key everywhere, you can do that too by following a tutorial from a quick Google search.
+
+
 
 To Install:
 
@@ -18,7 +27,6 @@ To Install:
 3. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite
 
 4. Reboot your computer or run the .exe you chose from step 1 manually
-
 
 Optional:
 
@@ -70,6 +78,7 @@ Known Issues:
 
 1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
 Only affects Ogre Magi, Lich, and neutral troll priest. This is a valve bug and out of my control.
+
 
 
 Work-arounds:
