@@ -9,7 +9,7 @@ To implement two modifiers for Windows users.
 
 SteamOS users can already use the super key as a modifier by default and other linux users can disable ALL of their super key shortcuts inorder to use two modifiers in DotA 2.
 
-By using a very small ahk script (15 lines of code), the Windows key can be sent to dota2.exe but not to the Windows OS when LAlt is pressed. https://autohotkey.com/
+By using a very small ahk script (15 lines of code), the Windows key can be sent to dota2.exe but not to the Windows OS when LAlt is pressed.
 
 This allows Windows users to enjoy two modifiers aswell. The best part about it is you can still use your Windows Key shortcuts outside of DotA!
 
@@ -20,7 +20,7 @@ If you prefer to disable your Windows Key everywhere, you can do that too by fol
 To Install:
 
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
-   You can use the .ahk instead if you have installed AutoHotKey.
+   You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
 
