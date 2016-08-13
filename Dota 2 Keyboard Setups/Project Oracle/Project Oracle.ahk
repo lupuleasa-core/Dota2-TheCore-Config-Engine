@@ -18,15 +18,12 @@ Return
 //Control + Tab is now Alt + Tab
 <^Tab::AltTab
 
-//Turn off Capslock
+//Keep Capslock off when typing chat
+*Enter::
+Send {Enter down}
 SetCapsLockState, off
-
-//Keep Capslock off at all times
-*Capslock::
-Send {Capslock down}
-SetCapsLockState, off
-Keywait, Capslock
-Send {Capslock up}
+Keywait, Enter
+Send {Enter up}
 Return
 
 //Remap the left WinKey to left Ctrl
