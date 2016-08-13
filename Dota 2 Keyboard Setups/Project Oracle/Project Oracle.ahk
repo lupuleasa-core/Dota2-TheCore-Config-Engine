@@ -18,7 +18,7 @@ Return
 //Control + Tab is now Alt + Tab
 *<^Tab::AltTab
 
-//Keep CapsLock off when typing chat
+//Keep CapsLock off
 *CapsLock::
 Send {CapsLock down}
 Keywait, CapsLock
