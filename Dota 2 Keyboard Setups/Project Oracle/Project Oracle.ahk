@@ -9,22 +9,22 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #IfWinActive ahk_exe dota2.exe
 
 //Unlocks the Second Modifier
-LAlt::
+*LAlt::
 ControlSend, , {LWin down}, Dota 2
 Keywait, LAlt
 ControlSend, , {LWin up}, Dota 2
 Return
 
 //Control + Tab is now Alt + Tab
-<^Tab::AltTab
+*<^Tab::AltTab
 
-//Keep Capslock off when typing chat
-*Enter::
-Send {Enter down}
+//Keep CapsLock off when typing chat
+*CapsLock::
+Send {CapsLock down}
+Keywait, CapsLock
 SetCapsLockState, off
-Keywait, Enter
-Send {Enter up}
+Send {CapsLock up}
 Return
 
 //Remap the left WinKey to left Ctrl
-LWin::LCtrl
+*LWin::LCtrl
