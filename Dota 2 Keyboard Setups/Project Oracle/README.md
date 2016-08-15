@@ -1,3 +1,5 @@
+###IMPORTANT: If you are upgrading from an old version of Project Oracle, you may have to do reinstall dota 2 first.
+
 Where did you get the name "Project Oracle"?
 Oracle is the only hero for which every ability benefits from all three cast types.
 
