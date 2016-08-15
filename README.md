@@ -2,7 +2,7 @@
 
 Project Oracle is a custom keyboard setup for Dota 2 that makes use of two modifier keys for Windows users. SteamOS and other linux users already enjoy keyboard setups that utilize both their super key and alt as modifiers, whereas Windows users can only use one modifier. This is because Microsoft's Windows key shortcuts cannot be disabled entirely wihtout disabling the Windows key itself. To ensure that the user does not experience any of the shortcuts during gameplay while using the second modifier, a short (14 lines) one-to-one ahk key script runs in the background to block the Windows key shortcuts from the os while Dota 2 is the active window. The windows modifier is then bound to LAlt as many windows users choose to disable the windows key for all games. The original alt modifier is then rebound in-game to the spacebar. This gives you two modifiers: LAlt and Space.
 
-Currently you have to press LCtrl-Tab instead Alt-Tab to switch out of dota 2. Since the script is only active when the dota 2 window is, you can press either Alt-Tab or LCtrl-Tab to switch back into the application.
+Currently you have to press LCtrl-Tab instead Alt-Tab to switch out of dota 2. Since the script is only active when the dota 2 window is, you can press either Alt-Tab or LCtrl-Tab to switch back into the application. This may better anyway as you won't accidentally press Alt-Tab when you are trying to Alt-Q.
 
 At Project Oracle we believe that no player should gain an in-game advantage from his operating system. Project Oracle gives the same opportunities that SteamOS users have to windows players by making two modifiers viable.
 
