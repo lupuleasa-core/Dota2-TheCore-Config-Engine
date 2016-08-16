@@ -24,5 +24,5 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------
-
+@RD /S /Q "dota\guides"
 START cmd /K "cd /d %~dp0 & mklink /j dota\guides dota_cache\guides"
