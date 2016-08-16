@@ -81,7 +81,7 @@ The affected heroes are listed below:
 
 1. delete this entire folder
 
-   "game\dota_ProjectOracleMinimap"
+   "game\mod_ProjectOracleMinimap"
 
 
 
