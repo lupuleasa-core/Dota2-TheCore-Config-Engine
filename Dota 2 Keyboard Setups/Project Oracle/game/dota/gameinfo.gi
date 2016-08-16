@@ -43,7 +43,7 @@
 			Game_LowViolence	dota_lv
 			
 			Game				dota_cache
-			Game				dota_ProjectOracleMinimap
+			Game				mod_ProjectOracleMinimap
 			Game				dota
 			Game				core
 
