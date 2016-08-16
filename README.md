@@ -7,7 +7,7 @@ Currently you have to press LCtrl-Tab instead Alt-Tab to switch out of dota 2. S
 At Project Oracle we believe that no player should gain an in-game advantage from his operating system. Project Oracle gives the same opportunities that SteamOS users have to windows players by making two modifiers viable.
 
 ### How to set it up?
-##Make sure you start at least one bot match on your dota 2 installation before you install Project Oracle or you will break your in-game guides.
+####Make sure you start at least one bot match on your dota 2 installation before you install Project Oracle or you will break your in-game guides.
 
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
    You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
