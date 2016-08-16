@@ -25,17 +25,19 @@ If you prefer to disable your Windows Key everywhere, you can do that too by fol
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
    You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
 
-2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
+2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
 
-3. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite
+3. IMPORTANT: Open the "Game" folder in the location you just placed it and double-click the "CreateSymbolicLinks.bat" file to run it.    If you don't do this, in-game build guides will NOT work.
 
-4. Reboot your computer or run the .exe you chose from step 1 manually
+4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
+
+5. Reboot your computer or run the .exe you chose from step 1 manually.
 
 ##Optional:
 
 1. launch DotA 2 and customize to your liking
 
-2. ####renable any WinKey shortcuts you have previously disabled by running the .reg file
+2. ####renable all WinKey shortcuts you have previously disabled by running the .reg file (If upgrading from an old version)
 
 
 #Customization:
