@@ -47,7 +47,7 @@
 		/////////PROJECT ORACLE MODS/////////////////////////////////////////////////////
 		/////////////////////////////////////////////////////////////////////////////////
 		//#CORE#	ESSENTIAL FOR ALL OTHER MODS IF YOU WANT IN-GAME CUSTOM BUILDS TO WORK
-			//Remove the "//" comment tag from "//Game" in the following line to enable mod support. Then run CreateSymbolicLink.bat in "dota 2 beta\game" folder.
+			//Remove the "//" comment tag from "//Game" in the following line to enable mod support. You must then either run or have ran CreateSymbolicLink.bat in "dota 2 beta\game" folder.
 			//Game				dota_cache
 				
 		//#DARK MINIMAP#	
