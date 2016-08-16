@@ -1,4 +1,4 @@
-###IMPORTANT: If you are upgrading from an old version of Project Oracle, you will have to reinstall dota 2 first.
+###IMPORTANT: If you are upgrading from an old version of Project Oracle, you WILL have to reinstall dota 2 first. To do this right-click "Dota 2" in your steam library and click delete local content. Then delete this entire folder "steam\steamapps\common\dota 2 beta" manually.
 
 ##Where did you get the name "Project Oracle"?
 Oracle is the only hero for which every ability benefits from all three cast types.
