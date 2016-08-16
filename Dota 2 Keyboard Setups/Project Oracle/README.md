@@ -20,6 +20,7 @@ If you prefer to disable your Windows Key everywhere, you can do that too by fol
 
 
 #To Install:
+####Make sure you start at least one bot match on your dota 2 installation before you install Project Oracle or you will break your in-game guides.
 
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
    You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
