@@ -76,7 +76,8 @@ The affected heroes are listed below:
 
 ##If you don't like the dark colored minimap replacer:
 
-1. delete this entire folder 
+1. delete this entire folder
+
    game\dota_ProjectOracleMinimap
 
 
