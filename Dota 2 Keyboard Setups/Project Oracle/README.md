@@ -7,15 +7,15 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 
 #Mission:
 
-To implement two modifiers for Windows users.
+1. To implement two modifiers for Windows users.
 
-SteamOS users can already use the super key as a modifier by default and other linux users can disable ALL of their super key shortcuts inorder to use two modifiers in DotA 2.
+   SteamOS users can already use the super key as a modifier by default and other linux users can disable ALL of their super key shortcuts inorder to use two modifiers in DotA 2.
 
-By using a very small ahk script (14 lines of code), the Windows key can be sent to dota2.exe but not to the Windows OS when LAlt is pressed.
+   By using a very small ahk script (14 lines of code), the Windows key can be sent to dota2.exe but not to the Windows OS when LAlt is pressed.
 
-This allows Windows users to enjoy two modifiers aswell. The best part about it is you can still use your Windows Key shortcuts outside of DotA!
+   This allows Windows users to enjoy two modifiers aswell. The best part about it is you can still use your Windows Key shortcuts outside of DotA!
 
-If you prefer to disable your Windows Key everywhere, you can do that too by following a tutorial from a quick Google search.
+   If you prefer to disable your Windows Key everywhere, you can do that too by following a tutorial from a quick Google search.
 
 
 
