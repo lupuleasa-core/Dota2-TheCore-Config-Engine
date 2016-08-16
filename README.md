@@ -14,9 +14,11 @@ At Project Oracle we believe that no player should gain an in-game advantage fro
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
 
-3. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite
+3. IMPORTANT: Open the "Game" folder in the location you just placed it and double-click the "CreateSymbolicLinks.bat" file to run it.    If you skp this step, in-game build guides will NOT work.
 
-4. Reboot your computer or run the .exe you chose from step 1 manually
+4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
+
+5. Reboot your computer or run the .exe you chose from step 1 manually.
 
 
 ### How to uninstall?
