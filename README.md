@@ -27,11 +27,9 @@ At Project Oracle we believe that no player should gain an in-game advantage fro
 
 2. Set your keybinds back the way you want them
 
-3. Run this command in the console to enable double-tap for self-cast (if it was affected by the setup in any way)
+3. Enable double-tap for self-cast in the dota 2 options by raising the timeout to something around 0.5
 
-    `dota_ability_self_cast_timeout 0.5`
-
-*Note: Double tap selfcast is intentionally disabled to prevent miscasts. This was done by making the tolerance so low only scripts can trigger it.*
+*Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
 
 ### Frequently Asked Questions
