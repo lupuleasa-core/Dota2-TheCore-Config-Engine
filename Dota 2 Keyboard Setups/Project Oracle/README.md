@@ -32,9 +32,9 @@ If you prefer to disable your Windows Key everywhere, you can do that too by fol
 
 ##Optional:
 
-#####5. launch DotA 2 and customize to your liking
+1. launch DotA 2 and customize to your liking
 
-###6. renable any WinKey shortcuts you have previously disabled by running the .reg file
+2. ####renable any WinKey shortcuts you have previously disabled by running the .reg file
 
 
 #Customization:
