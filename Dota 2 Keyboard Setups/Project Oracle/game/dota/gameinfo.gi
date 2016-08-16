@@ -42,6 +42,7 @@
 			// These are optional low-violence paths. They will only get mounted if you're in a low-violence mode.
 			Game_LowViolence	dota_lv
 			
+			Game				dota_Mods
 			Game				dota_ProjectOracleMinimap
 			Game				dota
 			Game				core
