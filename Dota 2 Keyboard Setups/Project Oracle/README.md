@@ -27,8 +27,6 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
 
-3. IMPORTANT: Open the "Game" folder in the location you just placed it and double-click the "CreateSymbolicLinks.bat" file to run it.    If you skp this step, in-game build guides will NOT work.
-
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
 5. Reboot your computer or run the .exe you chose from step 1 manually.
@@ -37,7 +35,9 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 
 1. launch DotA 2 and customize to your liking
 
-2. ####renable all WinKey shortcuts you have previously disabled by running the .reg file (If upgrading from an old version)
+2. Enable some Project Oracle mods such as the dark minimap. To do this, edit the gameinfo.gi in the "dota 2 beta\game\dota" folder and scroll down to the Project Oracle mods section and follow the instructions there. IMPORTANT: Then open the "dota 2 beta\game" folder and double-click the "CreateSymbolicLinks.bat" file to run it. If you skp this step, in-game build guides will NOT work.
+
+3. ####renable all WinKey shortcuts you have previously disabled by running the .reg file (If upgrading from an old version)
 
 
 #Customization:
