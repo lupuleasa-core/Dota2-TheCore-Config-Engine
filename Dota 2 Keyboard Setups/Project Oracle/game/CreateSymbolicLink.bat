@@ -25,4 +25,4 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :--------------------------------------
 
-START cmd /K "cd /d %~dp0 & mklink /j dota\guides dota_cache\guides & mklink dota\demoheader.tmp dota_cache\demoheader.tmp & mklink dota\rich_prescene_persistent_data.txt dota_cache\rich_prescene_persistent_data.txt & mklink dota\server_log.txt dota_cache\server_log.txt"
+START cmd /K "cd /d %~dp0 & mklink /j dota\guides dota_cache\guides"
