@@ -34,12 +34,10 @@ Oracle is the only hero for which every ability benefits from all three cast typ
 ##Optional:
 
 1. launch DotA 2 and customize to your liking
-
 ####Note: LAlt binds the LAlt modifier but it will read "WINDOWS" in-game. RAlt binds the SPACE modifier but it will read "ALT" in-game.
 
 2. Enable some Project Oracle mods such as the dark minimap. To do this, edit the gameinfo.gi in the "dota 2 beta\game\dota" folder and scroll down to the Project Oracle mods section and follow the instructions there. 
-
-###IMPORTANT: Then open the "dota 2 beta\game" folder and double-click the "CreateSymbolicLinks.bat" file to run it. If you skp this step, in-game build guides will NOT work.
+####IMPORTANT: Then open the "dota 2 beta\game" folder and double-click the "CreateSymbolicLinks.bat" file to run it. If you skp this step, in-game build guides will NOT work.
 
 3. ####renable all WinKey shortcuts you have previously disabled by running the .reg file (If upgrading from an old version)
 
