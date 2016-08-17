@@ -77,7 +77,7 @@ Take a sniff through the files—there are plenty of explanatory comments in eac
 
 Each config file has its own role. Once you understand what they do, they're easy to tweak.
 
-The AHK script is one-to-one and will NOT get you banned. It does not do anything that the SteamOS doesn't. All the AHK script does is block Windows from seeing the Windows key presses sent to dota2.exe.
+The `.ahk` script is one-to-one and will NOT get you banned. It does not do anything that the SteamOS doesn't. All the AHK script does is block Windows from seeing the Windows key presses sent to dota2.exe.
 
 
 ### Made a cool keyboard layout and want to share it?
