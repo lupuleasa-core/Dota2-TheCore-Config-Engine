@@ -7,18 +7,26 @@ Currently you have to press LCtrl-Tab instead Alt-Tab to switch out of dota 2. S
 At Project Oracle we believe that no player should gain an in-game advantage from his operating system. Project Oracle gives the same opportunities that SteamOS users have to windows players by making two modifiers viable.
 
 ### How to set it up?
-####Make sure you start at least one bot match on your dota 2 installation before you install Project Oracle or you will break your in-game guides.
+#To Install:
 
 1. Place either the 32-bit or the 64-bit .exe, depending upon your system, in your StartUp folder (I have provided a shortcut).
    You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
 
-2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite
-
-3. IMPORTANT: Open the "Game" folder in the location you just placed it and double-click the "CreateSymbolicLinks.bat" file to run it.    If you skp this step, in-game build guides will NOT work.
+2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
 5. Reboot your computer or run the .exe you chose from step 1 manually.
+
+##Optional:
+
+1. launch DotA 2 and customize to your liking
+####Note: LAlt binds the LAlt modifier but it will read "WINDOWS" in-game. RAlt binds the SPACE modifier but it will read "ALT" in-game.
+
+2. Enable some Project Oracle mods such as the dark minimap. To do this, edit the gameinfo.gi in the "dota 2 beta\game\dota" folder and scroll down to the Project Oracle mods section and follow the instructions there. 
+####IMPORTANT: Then open the "dota 2 beta\game" folder and double-click the "CreateSymbolicLinks.bat" file to run it. If you skp this step, in-game build guides will NOT work.
+
+3. ####renable all WinKey shortcuts you have previously disabled by running the .reg file (If upgrading from an old version)
 
 
 ### How to uninstall?
