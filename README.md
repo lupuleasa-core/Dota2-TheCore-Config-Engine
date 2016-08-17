@@ -31,7 +31,7 @@ At Project Oracle we believe that no player should gain an in-game advantage fro
 
 ### How to uninstall?
 
-1. Just delete the files you pasted in the `cfg` folder.
+1. Just delete the files you pasted in the `game` and 'StartUp' folder.
 
 2. Set your keybinds back the way you want them
 
