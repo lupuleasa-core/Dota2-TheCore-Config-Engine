@@ -1243,20 +1243,20 @@
 			}
 			"AbilitySecondary1"
 			{
-				"Key"		"T"
+				"Key"		"R"
 				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilitySecondary2"
 			{
 				"Mode"		"0"
-				"Key"		"G"
+				"Key"		"T"
 				"Modifier"		"LWIN"
 			}
 			"AbilityUltimate"
 			{
 				"Mode"		"0"
-				"Key"		"R"
+				"Key"		"G"
 				"Modifier"		"LWIN"
 			}
 			"AbilityPrimary1QuickCast"
@@ -1276,17 +1276,17 @@
 			}
 			"AbilitySecondary1QuickCast"
 			{
-				"Key"		"T"
+				"Key"		"R"
 				"Mode"		"0"
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
+				"Key"		"T"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
 			{
-				"Key"		"R"
+				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityPrimary1AutoCastAlternate2"
