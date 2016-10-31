@@ -6,6 +6,15 @@ Since **Valve removed support for advanced autoexec**, this config is most likel
 
 In the unlikely case that anyone from Valve reads this: please re-consider your decision and just prevent multiple abilities/items per keypress. That would make awesome customization available again.
 
+#### Alternatives?
+
+Here's a list of some relevant projects:
+
+:no_entry: Disclaimer: **These projects MIGHT be forbidden by Valve and MAY lead to a VAC ban**.
+
+- [@AveYo](https://github.com/AveYo)'s [D-OPTIMIZER](https://github.com/AveYo/D-OPTIMIZER) / [Project Arcana](http://steamcommunity.com/sharedfiles/filedetails/?id=408986743) (uses dota addons / vpk)
+- [@Karrandalf](https://github.com/Karrandalf)'s [Project Oracle](https://github.com/Karrandalf/Dota2-TheCore-Config-Engine) (uses AutoHotkey)
+
 ### What is this?
 
 This is a system of `.cfg` files that controls almost all aspects of the game.
