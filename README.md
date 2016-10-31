@@ -1,3 +1,11 @@
+### :warning: Warning
+
+Since **Valve removed support for advanced autoexec**, this config is most likely completely unusuable. If you don't know **exactly** what you're doing, don't attempt to use this.
+
+[Here](https://www.reddit.com/r/DotA2/comments/4kzld1/a_plea_to_valve_please_dont_kill_the_honest/) is an official statement of the author, explaining the situation.
+
+In the unlikely case that anyone from Valve reads this: please re-consider your decision and just prevent multiple abilities/items per keypress. That would make awesome customization available again.
+
 ### What is this?
 
 This is a system of `.cfg` files that controls almost all aspects of the game.
