@@ -25,7 +25,7 @@ To Install:
 
 
 Customization:
-Project Oracle makes use of smart ordering of hotkeys for some heroes which have more than four abilities.
+OLite makes use of "smart ordering" of hotkeys for some heroes which have more than four abilities.
 You can easily get rid of the ones you don't like in game by clicking the "clear" button for a particular hero.
 The affected heroes are listed below:
 
