@@ -7,7 +7,7 @@ By using a very short ahk script, Windows users can hide the left windows key fr
 I have bound the alt modifier to space in-game and have bound the winkey modifier to left alt using ahk.
       Windows: alt modifer and winkey modifier after running OLite.exe to disable winkey shortcuts in dota 2
       
-**The only thing preventing windows users from enjoying two-modifiers is that the the winkey shorcuts "alt-tab" them out of their game.
+***The only thing preventing windows users from enjoying two-modifiers is that the the winkey shorcuts "alt-tab" them out of their game.
 
 
 To Install:
