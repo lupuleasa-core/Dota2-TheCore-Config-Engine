@@ -7,7 +7,7 @@ OLite is a custom keyboard setup for Dota 2 that makes use of two modifier keys 
 I believe that no player should have an in-game advantage because of their operating system. OLite gives the same opportunities that SteamOS and Linux users have to Windows players by enabling a second modifier.
 
 ### How to set it up?
-#To Install:
+##To Install:
 
 1. Place OLite.exe in your StartUp folder (I have provided a shortcut).
    You can use the .ahk instead if you have installed AutoHotKey. https://autohotkey.com/
@@ -99,6 +99,11 @@ Each config file has its own role. Once you understand what they do, they're eas
 
 The `.ahk` script does not touch dota2.exe and will NOT get you banned. All the AHK script does is block Windows from seeing the Windows key presses sent to dota2.exe. It does not do anything that the SteamOS doesn't.
 
+### Alternatives
+
+1. ARCANA HOTKEYS II for Dota 2 - AVEYO's D-OPTIMIZER
+   https://github.com/AveYo/D-OPTIMIZER
+   This is a great keyboard layout and one you'll probably prefer if you are missing the extra features that came with Loopuleasa's        TheCore. You do have to modify dota 2's .vpk files. So don't use it to create cheats, or you'll get VAC banned. If you want the extra    features, use Arcana Hotkeys. If all you want is two modifiers with minimal features then you use OLite.
 
 ### Made a cool keyboard layout and want to share it?
 
