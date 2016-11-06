@@ -33,6 +33,14 @@ I believe that no player should have an in-game advantage because of their opera
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
 
+### Known Valve Bugs:
+
+1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
+Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and out of my control.
+
+2. The 13th and 14th items in shop panels don't have working hotkeys. This is also Valve's bug and out of my control.
+
+
 ### Frequently Asked Questions
 
 ##### Why can't I double-tap to self-cast or change wards with double-tap?
