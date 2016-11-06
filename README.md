@@ -1,4 +1,4 @@
-# A Minimalist Dual Modifier DotA 2 Keyboard Setup
+# A Minimalist Dual Modifier DotA 2 Keyboard Layout
 
 ### What is this?
 
