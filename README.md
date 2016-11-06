@@ -41,6 +41,44 @@ Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and 
 2. The 13th and 14th items in shop panels don't have working hotkeys. This is also Valve's bug and out of my control.
 
 
+### Smart Ordering:
+OLite makes use of "smart ordering" of hotkeys for some heroes which have more than four abilities.
+You can easily get rid of the ones you don't like in game by clicking the "clear" button for a particular hero.
+The affected heroes are listed below:
+
+1. Earth Spirit
+
+2. IO
+
+3. Lifestealer
+
+4. Phoenix
+
+5. Timbersaw
+
+6. Lone Druid
+
+7. Morphling
+
+8. Spectre
+
+9. Templar Assasin
+
+10. Chen
+
+11. Keeper of the Light
+
+12. Ogre Magi
+
+13. Puck
+
+14. Rubick
+
+15. Shadow Demon
+
+16. Techies
+
+
 ### Frequently Asked Questions
 
 ##### Why can't I double-tap to self-cast or change wards with double-tap?
