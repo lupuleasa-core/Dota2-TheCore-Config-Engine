@@ -2,7 +2,7 @@
 
 ### What is this?
 
-OLite is a custom keyboard setup for Dota 2 that makes use of two modifier keys for Windows users. SteamOS and other linux users already enjoy keyboard setups that utilize both their super key and alt as modifiers, whereas Windows users can only use one modifier. This is because Microsoft's Windows key shortcuts cannot be disabled entirely wihtout disabling the Windows key itself. To ensure that the user does not experience any of the shortcuts during gameplay while using the second modifier, a very short ahk key script runs in the background to block the Windows key shortcuts from the os while Dota 2 is the active window. The windows modifier is then bound to LAlt as many windows users choose to disable the windows key for all games. The original alt modifier is then rebound in-game to the spacebar. This gives you two modifiers: LAlt and Space.
+OLite is a custom keyboard setup for Dota 2 that makes use of two modifier keys for Windows users. SteamOS and other Linux users already enjoy keyboard setups that utilize both their super key and alt as modifiers, whereas Windows users can only use one modifier. This is because Microsoft's Windows key shortcuts cannot be disabled entirely without disabling the Winkey itself. A very short ahk key script runs in the background to block the Winkey shortcuts from the os while Dota 2 is the active window. This is to ensure that the user does not experience any of the shortcuts "alt-tabing" them out of dota during gameplay while using the second modifier. The Winkey modifier is then bound to LAlt. The original alt modifier is then rebound in-game to the spacebar. This gives you two modifiers: LAlt and Space.
 
 I believe that no player should have an in-game advantage because of their operating system. OLite gives the same opportunities that SteamOS and Linux users have to Windows players by enabling a second modifier.
 
@@ -47,35 +47,20 @@ You can easily get rid of the ones you don't like in game by clicking the "clear
 The affected heroes are listed below:
 
 1. Earth Spirit
-
 2. IO
-
 3. Lifestealer
-
 4. Phoenix
-
 5. Timbersaw
-
 6. Lone Druid
-
 7. Morphling
-
 8. Spectre
-
 9. Templar Assasin
-
 10. Chen
-
 11. Keeper of the Light
-
 12. Ogre Magi
-
 13. Puck
-
 14. Rubick
-
 15. Shadow Demon
-
 16. Techies
 
 
