@@ -3,6 +3,7 @@
 *.cfg text
 *.vcfg text
 *.txt text
+*.ahk text
 
 # git config
 .gitattributes text
@@ -22,5 +23,4 @@ AUTHORS text
 *.ico binary
 *.gif binary
 *.vpk binary
-*.reg binary
 *.exe binary
