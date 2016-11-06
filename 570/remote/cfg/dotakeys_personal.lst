@@ -308,8 +308,6 @@
 		"AbilitySecondary2AutoCast"
 		{
 			"Mode"		"0"
-			"Key"		"g"
-			"Modifier"		"ALT"
 		}
 		"AbilityUltimateAutoCast"
 		{
@@ -320,7 +318,7 @@
 		"Inventory1AutoCast"
 		{
 			"Mode"		"0"
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"ALT"
 		}
 		"Inventory2AutoCast"
@@ -412,13 +410,10 @@
 		"AbilitySecondary2QuickCast"
 		{
 			"Mode"		"0"
-			"Key"		"G"
 		}
 		"AbilitySecondary2AutoCastAlternate2"
 		{
 			"Mode"		"0"
-			"Key"		"g"
-			"Modifier"		"ALT"
 		}
 		"AbilityUltimateQuickCast"
 		{
@@ -434,12 +429,12 @@
 		"Inventory1QuickCast"
 		{
 			"Mode"		"0"
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 		}
 		"Inventory1QuickAutoCast"
 		{
 			"Mode"		"0"
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"ALT"
 		}
 		"Inventory2QuickCast"
@@ -620,8 +615,6 @@
 		"AbilitySecondary2"
 		{
 			"Mode"		"0"
-			"Key"		"G"
-			"Modifier"		"LWIN"
 		}
 		"AbilityUltimate"
 		{
@@ -632,7 +625,7 @@
 		"Inventory1"
 		{
 			"Mode"		"0"
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"LWIN"
 		}
 		"Inventory2"
@@ -1109,8 +1102,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -1141,7 +1132,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -1263,8 +1253,6 @@
 			"AbilityUltimate"
 			{
 				"Mode"		"0"
-				"Key"		"G"
-				"Modifier"		"LWIN"
 			}
 			"AbilityPrimary1QuickCast"
 			{
@@ -1293,7 +1281,6 @@
 			}
 			"AbilityUltimateQuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityPrimary1AutoCastAlternate2"
@@ -1403,8 +1390,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -1435,7 +1420,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -1519,7 +1503,7 @@
 			{
 				"Mode"		"0"
 				"Key"		"A"
-				"Modifier"		"ALT"
+				"Modifier"		"LWIN"
 			}
 		}
 		"npc_dota_hero_wisp"
@@ -1691,8 +1675,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -1723,7 +1705,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -1832,8 +1813,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"ALT"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -1864,7 +1843,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -2112,8 +2090,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -2144,7 +2120,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -2253,8 +2228,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -2285,7 +2258,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -2535,8 +2507,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -2567,7 +2537,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -2958,8 +2927,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -2990,7 +2957,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3105,8 +3071,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3137,7 +3101,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3246,8 +3209,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3278,7 +3239,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3393,8 +3353,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3425,7 +3383,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3540,8 +3497,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3572,7 +3527,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3687,8 +3641,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3719,7 +3671,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3834,8 +3785,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -3866,7 +3815,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -3981,8 +3929,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -4013,7 +3959,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -4404,8 +4349,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -4436,7 +4379,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -4545,8 +4487,6 @@
 			}
 			"AbilitySecondary2"
 			{
-				"Key"		"G"
-				"Modifier"		"LWIN"
 				"Mode"		"0"
 			}
 			"AbilityUltimate"
@@ -4577,7 +4517,6 @@
 			}
 			"AbilitySecondary2QuickCast"
 			{
-				"Key"		"G"
 				"Mode"		"0"
 			}
 			"AbilityUltimateQuickCast"
@@ -4658,9 +4597,338 @@
 				"Mode"		"0"
 			}
 		}
+		"npc_dota_hero_invoker"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_nevermore"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
 	}
 	"HeroBuilds"
 	{
-
+		"abaddon"		"workshop: 168309246"
+		"alchemist"		"workshop: 356791078"
+		"antimage"		"workshop: 128960249"
+		"storm_spirit"		"workshop: 129143802"
+		"sniper"		"cloud: guides/sniper_scratch.build"
+		"terrorblade"		"workshop: 222265746"
+		"ursa"		"workshop: 254615876"
+		"treant"		"itembuild: treant"
+		"sand_king"		"workshop: 128868122"
+		"lone_druid"		"workshop: 176984007"
+		"faceless_void"		"workshop: 128922664"
+		"phantom_lancer"		"workshop: 129093311"
+		"windrunner"		"workshop: 434659379"
+		"shredder"		"workshop: 695002747"
+		"abyssal_underlord"		"workshop: 750400577"
+		"chen"		"workshop: 129081331"
+		"meepo"		"workshop: 129402256"
+		"ember_spirit"		"workshop: 251934276"
+		"magnataur"		"workshop: 353846884"
+		"juggernaut"		"workshop: 129083818"
+		"vengefulspirit"		"workshop: 129062086"
+		"medusa"		"workshop: 129403206"
+		"invoker"		"cloud: guides/invoker_scratch.build"
+		"zuus"		"workshop: 129065509"
+		"morphling"		"workshop: 129076227"
+		"legion_commander"		"workshop: 447409036"
+		"dragon_knight"		"workshop: 286904891"
+		"rubick"		"workshop: 128927319"
+		"drow_ranger"		"workshop: 128743885"
+		"silencer"		"workshop: 334021836"
+		"bounty_hunter"		"workshop: 128751287"
+		"templar_assassin"		"workshop: 128748151"
+		"necrolyte"		"workshop: 129193377"
+		"gyrocopter"		"workshop: 319106719"
+		"tinker"		"workshop: 129157199"
+		"visage"		"workshop: 130510888"
 	}
 }
