@@ -28,6 +28,6 @@
 		"="		"dota_player_add_summoned_to_selection 1"
 		"-"		"dota_player_add_summoned_to_selection 0"
 		"\"		"toggleconsole"
-		"mouse4"		"dota_camera_center"
+		"KP_0"		"dota_camera_center"
 	}
 }
