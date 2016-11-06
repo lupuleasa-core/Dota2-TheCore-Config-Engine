@@ -4,7 +4,7 @@
 
 OLite is a custom keyboard setup for Dota 2 that makes use of two modifier keys for Windows users. SteamOS and other linux users already enjoy keyboard setups that utilize both their super key and alt as modifiers, whereas Windows users can only use one modifier. This is because Microsoft's Windows key shortcuts cannot be disabled entirely wihtout disabling the Windows key itself. To ensure that the user does not experience any of the shortcuts during gameplay while using the second modifier, a very short ahk key script runs in the background to block the Windows key shortcuts from the os while Dota 2 is the active window. The windows modifier is then bound to LAlt as many windows users choose to disable the windows key for all games. The original alt modifier is then rebound in-game to the spacebar. This gives you two modifiers: LAlt and Space.
 
-I believe that no player should have an in-game advantage because of their keyboard setup. OLite gives the same opportunities that SteamOS and linux users have by default to windows players by enabling a second modifier.
+I believe that no player should have an in-game advantage because of their operating system. OLite gives the same opportunities that SteamOS and linux users have by default to windows players by enabling a second modifier.
 
 ### How to set it up?
 #To Install:
