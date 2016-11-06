@@ -28,7 +28,13 @@ XButton2::LCtrl
 ////////////////////////////////////////////////////////////////////////////////////////
 // Fixes Alt + Tab
 #If GetKeyState("LAlt", "p")
-Tab::AltTabAndMenu
+Tab::
+Send {RAlt down}
+Send {Tab down}
+Keywait, Tab
+Send {Tab up}
+Send {RAlt up}
+return
 #IfWinActive ahk_exe dota2.exe
 
 // Keep CapsLock off
