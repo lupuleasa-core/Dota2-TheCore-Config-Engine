@@ -27,13 +27,14 @@ XButton2::LCtrl
 //  Workarounds and Fixes                                                             //
 ////////////////////////////////////////////////////////////////////////////////////////
 // Fixes Alt + Tab
-#If GetKeyState("LAlt", "p")
+#If GetKeyState("LAlt", "p") && GetKeyState("Tab", "p")
 Tab::
-Send {RAlt down}
+Send {LAlt down}
 Send {Tab down}
 Keywait, Tab
 Send {Tab up}
-Send {RAlt up}
+Keywait, LAlt
+Send {LAlt up}
 return
 #IfWinActive ahk_exe dota2.exe
 
