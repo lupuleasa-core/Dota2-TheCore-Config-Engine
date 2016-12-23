@@ -26,3 +26,4 @@ AUTHORS text
 *.vpk binary
 *.exe binary
 *.dll binary
+*.lib binary
