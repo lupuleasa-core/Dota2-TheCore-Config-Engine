@@ -1,0 +1,4934 @@
+"KeyBindings"
+{
+	"Name"		"ARROW"
+	"Version"		"12"
+	"AlgorithmicUpdateVersion"		"6"
+	"UseHeroBindings"		"0"
+	"LinkPlayerToSpectator"		"1"
+	"Keys"
+	{
+		"RecentEvent"
+		{
+			"Mode"		"0"
+			"Key"		"Z"
+			"Modifier"		"ALT"
+		}
+		"ScoreboardToggle"
+		{
+			"Mode"		"0"
+			"Key"		"H"
+			"Modifier"		"ALT"
+		}
+		"HeroMove"
+		{
+			"Mode"		"0"
+			"Key"		"Z"
+		}
+		"HeroHold"
+		{
+			"Mode"		"0"
+			"Key"		"S"
+			"Modifier"		"ALT"
+		}
+		"HeroSelect"
+		{
+			"Mode"		"0"
+			"Key"		"1"
+		}
+		"CourierSelect"
+		{
+			"Mode"		"0"
+			"Key"		"`"
+		}
+		"ControlGroup1"
+		{
+			"Mode"		"0"
+			"Key"		"2"
+		}
+		"ControlGroup2"
+		{
+			"Mode"		"0"
+			"Key"		"3"
+		}
+		"ControlGroup3"
+		{
+			"Mode"		"0"
+			"Key"		"4"
+		}
+		"ControlGroup4"
+		{
+			"Mode"		"0"
+			"Key"		"5"
+		}
+		"ControlGroup5"
+		{
+			"Mode"		"0"
+			"Key"		"6"
+		}
+		"ControlGroup6"
+		{
+			"Mode"		"0"
+			"Key"		"7"
+		}
+		"ControlGroup7"
+		{
+			"Mode"		"0"
+			"Key"		"8"
+		}
+		"ControlGroup8"
+		{
+			"Mode"		"0"
+			"Key"		"9"
+		}
+		"ControlGroup9"
+		{
+			"Mode"		"0"
+			"Key"		"0"
+		}
+		"ControlGroup10"
+		{
+			"Mode"		"0"
+		}
+		"ShopToggle"
+		{
+			"Mode"		"0"
+			"Key"		"B"
+		}
+		"PurchaseQuickbuy"
+		{
+			"Mode"		"0"
+			"Key"		"F4"
+		}
+		"PurchaseSticky"
+		{
+			"Mode"		"0"
+			"Key"		"B"
+			"Modifier"		"ALT"
+		}
+		"ScreenshotSettings"
+		{
+			"Mode"		"0"
+			"Key"		"F12"
+		}
+		"Escape"
+		{
+			"Key"		"ESCAPE"
+		}
+		"SpectatorCameraUp"
+		{
+			"Mode"		"0"
+			"Key"		"UPARROW"
+			"Modifier"		"None"
+		}
+		"SpectatorCameraDown"
+		{
+			"Mode"		"0"
+			"Key"		"DOWNARROW"
+			"Modifier"		"None"
+		}
+		"SpectatorCameraLeft"
+		{
+			"Mode"		"0"
+			"Key"		"LEFTARROW"
+			"Modifier"		"None"
+		}
+		"SpectatorCameraRight"
+		{
+			"Mode"		"0"
+			"Key"		"RIGHTARROW"
+			"Modifier"		"None"
+		}
+		"SpectatorChat"
+		{
+			"Mode"		"0"
+			"Key"		"ENTER"
+			"Modifier"		"SHIFT"
+		}
+		"SpectatorScoreboard"
+		{
+			"Mode"		"0"
+			"Key"		"h"
+			"Modifier"		"ALT"
+		}
+		"SpectatorDropdown_Gold_Per_Min"
+		{
+			"PanelParent"		"page2"
+			"Key"		"U"
+			"Mode"		"0"
+		}
+		"ShopTabConsumables"
+		{
+			"Key"		"q"
+		}
+		"ShopTabAttributes"
+		{
+			"Key"		"w"
+		}
+		"ShopTabArmaments"
+		{
+			"Key"		"e"
+		}
+		"ShopTabArcane"
+		{
+			"Key"		"r"
+		}
+		"ShopTabBasics"
+		{
+			"Key"		"a"
+		}
+		"ShopTabSupport"
+		{
+			"Key"		"s"
+		}
+		"ShopTabCaster"
+		{
+			"Key"		"d"
+		}
+		"ShopTabWeapons"
+		{
+			"Key"		"f"
+		}
+		"ShopTabArmor"
+		{
+			"Key"		"g"
+		}
+		"ShopTabArtifacts"
+		{
+			"Key"		"h"
+		}
+		"ShopTabSidePage1"
+		{
+			"Key"		"z"
+		}
+		"ShopTabSidePage2"
+		{
+			"Key"		"x"
+		}
+		"ShopTabSecret"
+		{
+			"Key"		"c"
+		}
+		"ShopTabSearchBox"
+		{
+			"Key"		"v"
+		}
+		"ShopSlot1"
+		{
+			"Key"		"1"
+		}
+		"ShopSlot2"
+		{
+			"Key"		"2"
+		}
+		"ShopSlot3"
+		{
+			"Key"		"3"
+		}
+		"ShopSlot4"
+		{
+			"Key"		"4"
+		}
+		"ShopSlot5"
+		{
+			"Key"		"5"
+		}
+		"ShopSlot6"
+		{
+			"Key"		"6"
+		}
+		"ShopSlot7"
+		{
+			"Key"		"1"
+			"Modifier"		"ALT"
+		}
+		"ShopSlot8"
+		{
+			"Key"		"2"
+			"Modifier"		"ALT"
+		}
+		"ShopSlot9"
+		{
+			"Key"		"3"
+			"Modifier"		"ALT"
+		}
+		"ShopSlot10"
+		{
+			"Key"		"4"
+			"Modifier"		"ALT"
+		}
+		"ShopSlot11"
+		{
+			"Key"		"5"
+			"Modifier"		"ALT"
+		}
+		"ShopSlot12"
+		{
+			"Key"		"6"
+			"Modifier"		"ALT"
+		}
+		"InspectHeroInWorld"
+		{
+			"Mode"		"0"
+			"Key"		"P"
+		}
+		"ChatGlobal"
+		{
+			"Mode"		"0"
+			"Key"		"ENTER"
+			"Modifier"		"SHIFT"
+		}
+		"ChatGlobal2"
+		{
+			"Mode"		"0"
+		}
+		"AbilityPrimary1AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"q"
+			"Modifier"		"ALT"
+		}
+		"AbilityPrimary2AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"w"
+			"Modifier"		"ALT"
+		}
+		"AbilityPrimary3AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"e"
+			"Modifier"		"ALT"
+		}
+		"AbilitySecondary1AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"t"
+			"Modifier"		"ALT"
+		}
+		"AbilitySecondary2AutoCast"
+		{
+			"Mode"		"0"
+		}
+		"AbilityUltimateAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"r"
+			"Modifier"		"ALT"
+		}
+		"Inventory1AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE4"
+			"Modifier"		"ALT"
+		}
+		"Inventory2AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"d"
+			"Modifier"		"ALT"
+		}
+		"Inventory3AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"f"
+			"Modifier"		"ALT"
+		}
+		"Inventory4AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"x"
+			"Modifier"		"ALT"
+		}
+		"Inventory5AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"c"
+			"Modifier"		"ALT"
+		}
+		"Inventory6AutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"v"
+			"Modifier"		"ALT"
+		}
+		"SpectatorCameraGrip"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE3"
+			"Modifier"		"None"
+		}
+		"SpectatorPause"
+		{
+			"Mode"		"0"
+			"Key"		"F9"
+			"Modifier"		"None"
+		}
+		"AbilityPrimary1QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"Q"
+		}
+		"AbilityPrimary1AutoCastAlternate2"
+		{
+			"Mode"		"0"
+			"Key"		"q"
+			"Modifier"		"ALT"
+		}
+		"AbilityPrimary2QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"W"
+		}
+		"AbilityPrimary2AutoCastAlternate2"
+		{
+			"Mode"		"0"
+			"Key"		"w"
+			"Modifier"		"ALT"
+		}
+		"AbilityPrimary3QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"E"
+		}
+		"AbilityPrimary3AutoCastAlternate2"
+		{
+			"Mode"		"0"
+			"Key"		"e"
+			"Modifier"		"ALT"
+		}
+		"AbilitySecondary1QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"T"
+		}
+		"AbilitySecondary1AutoCastAlternate2"
+		{
+			"Mode"		"0"
+			"Key"		"t"
+			"Modifier"		"ALT"
+		}
+		"AbilitySecondary2QuickCast"
+		{
+			"Mode"		"0"
+		}
+		"AbilitySecondary2AutoCastAlternate2"
+		{
+			"Mode"		"0"
+		}
+		"AbilityUltimateQuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"R"
+		}
+		"AbilityUltimateAutoCastAlternate2"
+		{
+			"Mode"		"0"
+			"Key"		"r"
+			"Modifier"		"ALT"
+		}
+		"Inventory1QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE4"
+		}
+		"Inventory1QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE4"
+			"Modifier"		"ALT"
+		}
+		"Inventory2QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"D"
+		}
+		"Inventory2QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"d"
+			"Modifier"		"ALT"
+		}
+		"Inventory3QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"F"
+		}
+		"Inventory3QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"f"
+			"Modifier"		"ALT"
+		}
+		"Inventory4QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"X"
+		}
+		"Inventory4QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"x"
+			"Modifier"		"ALT"
+		}
+		"Inventory5QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"C"
+		}
+		"Inventory5QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"c"
+			"Modifier"		"ALT"
+		}
+		"Inventory6QuickCast"
+		{
+			"Mode"		"0"
+			"Key"		"V"
+		}
+		"Inventory6QuickAutoCast"
+		{
+			"Mode"		"0"
+			"Key"		"v"
+			"Modifier"		"ALT"
+		}
+		"SelectAll"
+		{
+			"Mode"		"0"
+			"Key"		"1"
+			"Modifier"		"ALT"
+		}
+		"GrabStashItems"
+		{
+			"Mode"		"0"
+			"Key"		"Y"
+			"Modifier"		"ALT"
+		}
+		"CameraSavedPosition1"
+		{
+			"Mode"		"0"
+			"Key"		"F1"
+		}
+		"SpectatorCameraSavedPosition1"
+		{
+			"Mode"		"0"
+			"Key"		"F1"
+			"Modifier"		"None"
+		}
+		"CameraSavedPosition2"
+		{
+			"Mode"		"0"
+			"Key"		"F2"
+		}
+		"SpectatorCameraSavedPosition2"
+		{
+			"Mode"		"0"
+			"Key"		"F2"
+			"Modifier"		"None"
+		}
+		"HeroPatrol"
+		{
+			"Mode"		"0"
+			"Key"		"A"
+			"Modifier"		"LWIN"
+		}
+		"HeroTaunt"
+		{
+			"Mode"		"0"
+			"Key"		"]"
+		}
+		"UseActionItem"
+		{
+			"Mode"		"0"
+			"Key"		"["
+		}
+		"SelectAllOthers"
+		{
+			"Mode"		"0"
+			"Key"		"2"
+			"Modifier"		"ALT"
+		}
+		"CameraUp"
+		{
+			"Mode"		"0"
+			"Key"		"UPARROW"
+		}
+		"CameraDown"
+		{
+			"Mode"		"0"
+			"Key"		"DOWNARROW"
+		}
+		"CameraLeft"
+		{
+			"Mode"		"0"
+			"Key"		"LEFTARROW"
+		}
+		"CameraRight"
+		{
+			"Mode"		"0"
+			"Key"		"RIGHTARROW"
+		}
+		"LearnAbilities"
+		{
+			"Mode"		"0"
+			"Key"		"Y"
+		}
+		"LearnStats"
+		{
+			"Mode"		"0"
+			"Key"		"H"
+		}
+		"CameraZoomIn"
+		{
+			"Mode"		"0"
+			"Key"		"KP_PLUS"
+		}
+		"CameraZoomOut"
+		{
+			"Mode"		"0"
+			"Key"		"KP_MINUS"
+		}
+		"AbilityPrimary1"
+		{
+			"Mode"		"0"
+			"Key"		"Q"
+			"Modifier"		"LWIN"
+		}
+		"AbilityPrimary2"
+		{
+			"Mode"		"0"
+			"Key"		"W"
+			"Modifier"		"LWIN"
+		}
+		"AbilityPrimary3"
+		{
+			"Mode"		"0"
+			"Key"		"E"
+			"Modifier"		"LWIN"
+		}
+		"AbilitySecondary1"
+		{
+			"Mode"		"0"
+			"Key"		"T"
+			"Modifier"		"LWIN"
+		}
+		"AbilitySecondary2"
+		{
+			"Mode"		"0"
+		}
+		"AbilityUltimate"
+		{
+			"Mode"		"0"
+			"Key"		"R"
+			"Modifier"		"LWIN"
+		}
+		"Inventory1"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE4"
+			"Modifier"		"LWIN"
+		}
+		"Inventory2"
+		{
+			"Mode"		"0"
+			"Key"		"D"
+			"Modifier"		"LWIN"
+		}
+		"Inventory3"
+		{
+			"Mode"		"0"
+			"Key"		"F"
+			"Modifier"		"LWIN"
+		}
+		"Inventory4"
+		{
+			"Mode"		"0"
+			"Key"		"X"
+			"Modifier"		"LWIN"
+		}
+		"Inventory5"
+		{
+			"Mode"		"0"
+			"Key"		"C"
+			"Modifier"		"LWIN"
+		}
+		"Inventory6"
+		{
+			"Mode"		"0"
+			"Key"		"V"
+			"Modifier"		"LWIN"
+		}
+		"ChatWheel"
+		{
+			"Mode"		"0"
+			"Key"		"CAPSLOCK"
+			"Modifier"		"ALT"
+		}
+		"ActivateGlyph"
+		{
+			"Mode"		"0"
+			"Key"		"F1"
+			"Modifier"		"ALT"
+		}
+		"ActivateRadar"
+		{
+			"Mode"		"0"
+			"Key"		"F2"
+			"Modifier"		"ALT"
+		}
+		"HeroStop"
+		{
+			"Mode"		"0"
+			"Key"		"S"
+		}
+		"ChatVoiceTeam"
+		{
+			"Mode"		"0"
+			"Key"		"CAPSLOCK"
+		}
+		"CourierHaste"
+		{
+			"Mode"		"0"
+			"Key"		"F3"
+			"Modifier"		"ALT"
+		}
+		"CameraSavedPosition3"
+		{
+			"Mode"		"0"
+			"Key"		"5"
+			"Modifier"		"LWIN"
+		}
+		"SpectatorCameraSavedPosition3"
+		{
+			"Mode"		"0"
+			"Key"		"5"
+			"Modifier"		"LWIN"
+		}
+		"CameraSavedPosition4"
+		{
+			"Mode"		"0"
+			"Key"		"3"
+			"Modifier"		"ALT"
+		}
+		"SpectatorCameraSavedPosition4"
+		{
+			"Mode"		"0"
+			"Key"		"3"
+			"Modifier"		"ALT"
+		}
+		"CameraSavedPosition5"
+		{
+			"Mode"		"0"
+			"Key"		"4"
+			"Modifier"		"ALT"
+		}
+		"SpectatorCameraSavedPosition5"
+		{
+			"Mode"		"0"
+			"Key"		"4"
+			"Modifier"		"ALT"
+		}
+		"CameraSavedPosition6"
+		{
+			"Mode"		"0"
+			"Key"		"5"
+			"Modifier"		"ALT"
+		}
+		"SpectatorCameraSavedPosition6"
+		{
+			"Mode"		"0"
+			"Key"		"5"
+			"Modifier"		"ALT"
+		}
+		"CameraSavedPosition7"
+		{
+			"Mode"		"0"
+			"Key"		"1"
+			"Modifier"		"LWIN"
+		}
+		"SpectatorCameraSavedPosition7"
+		{
+			"Mode"		"0"
+			"Key"		"1"
+			"Modifier"		"LWIN"
+		}
+		"CameraSavedPosition8"
+		{
+			"Mode"		"0"
+			"Key"		"2"
+			"Modifier"		"LWIN"
+		}
+		"SpectatorCameraSavedPosition8"
+		{
+			"Mode"		"0"
+			"Key"		"2"
+			"Modifier"		"LWIN"
+		}
+		"CameraSavedPosition9"
+		{
+			"Mode"		"0"
+			"Key"		"3"
+			"Modifier"		"LWIN"
+		}
+		"SpectatorCameraSavedPosition9"
+		{
+			"Mode"		"0"
+			"Key"		"3"
+			"Modifier"		"LWIN"
+		}
+		"CameraSavedPosition10"
+		{
+			"Mode"		"0"
+			"Key"		"4"
+			"Modifier"		"LWIN"
+		}
+		"SpectatorCameraSavedPosition10"
+		{
+			"Mode"		"0"
+			"Key"		"4"
+			"Modifier"		"LWIN"
+		}
+		"ChatTeam2"
+		{
+			"Mode"		"0"
+		}
+		"SpectatorStatsGold"
+		{
+			"Mode"		"0"
+			"Key"		"F6"
+		}
+		"SpectatorFOWRadient"
+		{
+			"Mode"		"0"
+			"Key"		"X"
+		}
+		"CameraGrip"
+		{
+			"Mode"		"0"
+			"Key"		"MOUSE3"
+		}
+		"HeroAttack"
+		{
+			"Mode"		"0"
+			"Key"		"A"
+		}
+		"ChatTeam"
+		{
+			"Mode"		"0"
+			"Key"		"ENTER"
+		}
+		"ControlGroupCycle"
+		{
+			"Mode"		"0"
+			"Key"		"TAB"
+		}
+		"Console"
+		{
+			"Mode"		"0"
+			"Key"		"\"
+		}
+		"CourierDeliver"
+		{
+			"Mode"		"0"
+			"Key"		"F3"
+		}
+		"Pause"
+		{
+			"Mode"		"0"
+			"Key"		"F9"
+		}
+		"DotaAlt"
+		{
+			"Mode"		"0"
+			"Key"		"SPACE"
+		}
+		"SpectatorFOWBoth"
+		{
+			"Mode"		"0"
+			"Key"		"Z"
+		}
+		"SpectatorIncreaseReplaySpeed"
+		{
+			"Mode"		"0"
+			"Key"		"="
+		}
+		"SpectatorDecreaseReplaySpeed"
+		{
+			"Mode"		"0"
+			"Key"		"-"
+		}
+		"SpectatorStatsHarvest"
+		{
+			"Mode"		"0"
+			"Key"		"F4"
+		}
+		"SpectatorStatsItem"
+		{
+			"Mode"		"0"
+			"Key"		"F5"
+		}
+		"SpectatorStatsXP"
+		{
+			"Mode"		"0"
+			"Key"		"F7"
+		}
+		"SpectatorStatsFantasy"
+		{
+			"Mode"		"0"
+			"Key"		"F8"
+		}
+		"SpectatorFOWDire"
+		{
+			"Mode"		"0"
+			"Key"		"C"
+		}
+		"SpectatorBroadcasterMenu"
+		{
+			"Mode"		"0"
+			"Key"		"F3"
+		}
+		"SpectatorDropdown_KDA"
+		{
+			"Mode"		"0"
+			"Key"		"Q"
+		}
+		"SpectatorDropdown_Lasthits_Denies"
+		{
+			"Mode"		"0"
+			"Key"		"W"
+		}
+		"SpectatorDropdown_Level"
+		{
+			"Mode"		"0"
+			"Key"		"E"
+		}
+		"SpectatorDropdown_XP_Per_Min"
+		{
+			"Mode"		"0"
+			"Key"		"R"
+		}
+		"SpectatorDropdown_Gold"
+		{
+			"Mode"		"0"
+			"Key"		"T"
+		}
+		"SpectatorDropdown_Buyback"
+		{
+			"Mode"		"0"
+			"Key"		"I"
+		}
+		"SpectatorDropdown_NetWorth"
+		{
+			"Mode"		"0"
+			"Key"		"Y"
+		}
+		"SpectatorDropdown_Fantasy"
+		{
+			"Mode"		"0"
+			"Key"		"O"
+		}
+		"SpectatorDropdown_Sort"
+		{
+			"Mode"		"0"
+			"Key"		"S"
+		}
+		"SpectatorDropdown_Close"
+		{
+			"Mode"		"0"
+			"Key"		"A"
+		}
+		"SpectatorCoach_ViewToggle"
+		{
+			"Mode"		"0"
+			"Key"		"TAB"
+		}
+		"HeroMoveDirection"
+		{
+			"Mode"		"0"
+		}
+		"ControlGroupCyclePrev"
+		{
+			"Mode"		"0"
+			"Key"		"TAB"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelCare"
+		{
+			"Mode"		"0"
+			"Key"		"U"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelGetBack"
+		{
+			"Mode"		"0"
+			"Key"		"I"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelGetPush"
+		{
+			"Mode"		"0"
+			"Key"		"O"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelMissingTop"
+		{
+			"Mode"		"0"
+			"Key"		"J"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelMissingMiddle"
+		{
+			"Mode"		"0"
+			"Key"		"K"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelMissingBottom"
+		{
+			"Mode"		"0"
+			"Key"		"L"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelNeedWards"
+		{
+			"Key"		"M"
+			"Mode"		"0"
+			"Modifier"		"ALT"
+		}
+		"ChatWheelGoodJob"
+		{
+			"Key"		","
+			"Modifier"		"ALT"
+			"Mode"		"0"
+		}
+		"ChatWheelHelp"
+		{
+			"Key"		"N"
+			"Mode"		"0"
+			"Modifier"		"ALT"
+		}
+		"SpectatorCameraFocusPlayer1"
+		{
+			"Key"		"1"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer2"
+		{
+			"Key"		"2"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer3"
+		{
+			"Key"		"3"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer4"
+		{
+			"Key"		"4"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer5"
+		{
+			"Key"		"5"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer6"
+		{
+			"Key"		"6"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer7"
+		{
+			"Key"		"7"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer8"
+		{
+			"Key"		"8"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer9"
+		{
+			"Key"		"9"
+			"Mode"		"0"
+		}
+		"SpectatorCameraFocusPlayer10"
+		{
+			"Key"		"0"
+			"Mode"		"0"
+		}
+		"ToggleAutoattack"
+		{
+			"Mode"		"0"
+			"Key"		"S"
+			"Modifier"		"LWIN"
+		}
+		"AbilityPrimary2AutoCastAlternate"
+		{
+			"Key"		"A"
+			"Modifier"		"ALT"
+			"Mode"		"0"
+		}
+	}
+	"HeroBuildNagCount2"		"3"
+	"AllowGuiKeyToBind"		"0"
+	"PerUnitKeybinds"		"1"
+	"Units"
+	{
+		"npc_dota_hero_viper"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCastAlternate"
+			{
+				"Mode"		"0"
+				"Key"		"A"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_neutral_default"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary2"
+			{
+				"Mode"		"0"
+				"Key"		"W"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+				"Key"		"T"
+				"Modifier"		"LWIN"
+			}
+			"AbilityUltimate"
+			{
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCastAlternate"
+			{
+				"Mode"		"0"
+				"Key"		"A"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_ogre_magi"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate"
+			{
+				"Mode"		"0"
+				"Key"		"A"
+				"Modifier"		"LWIN"
+			}
+		}
+		"npc_dota_hero_wisp"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Mode"		"0"
+				"Key"		"W"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"T"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+				"Key"		"R"
+				"Modifier"		"LWIN"
+			}
+			"AbilityUltimate"
+			{
+				"Mode"		"0"
+				"Key"		"G"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_life_stealer"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_phoenix"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"R"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_morphling"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"R"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_templar_assassin"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary2"
+			{
+				"Mode"		"0"
+				"Key"		"W"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_chen"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Mode"		"0"
+				"Key"		"T"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_keeper_of_the_light"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_puck"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Mode"		"0"
+				"Key"		"W"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"R"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_rubick"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_techies"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+		}
+		"npc_dota_hero_doom_bringer"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_shredder"
+		{
+			"AbilityPrimary1"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_tusk"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_drow_ranger"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_enchantress"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Mode"		"0"
+				"Key"		"E"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_jakiro"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_obsidian_destroyer"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"t"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"r"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_shadow_demon"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Mode"		"0"
+				"Key"		"R"
+				"Modifier"		"LWIN"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"w"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"e"
+				"Modifier"		"ALT"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"g"
+				"Modifier"		"ALT"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_earth_spirit"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_courier"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Mode"		"0"
+				"Key"		"G"
+				"Modifier"		"LWIN"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Mode"		"0"
+				"Key"		"Q"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Mode"		"0"
+				"Key"		"q"
+				"Modifier"		"ALT"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_lone_druid"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_spectre"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_invoker"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+		"npc_dota_hero_nevermore"
+		{
+			"AbilityPrimary1"
+			{
+				"Key"		"Q"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2"
+			{
+				"Key"		"W"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3"
+			{
+				"Key"		"E"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1"
+			{
+				"Key"		"T"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2"
+			{
+				"Key"		"G"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityUltimate"
+			{
+				"Key"		"R"
+				"Modifier"		"LWIN"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1QuickCast"
+			{
+				"Key"		"Q"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2QuickCast"
+			{
+				"Key"		"W"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3QuickCast"
+			{
+				"Key"		"E"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1QuickCast"
+			{
+				"Key"		"T"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2QuickCast"
+			{
+				"Key"		"G"
+				"Mode"		"0"
+			}
+			"AbilityUltimateQuickCast"
+			{
+				"Key"		"R"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate"
+			{
+				"Key"		"A"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCastAlternate2"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCastAlternate2"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCastAlternate2"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCastAlternate2"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCastAlternate2"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCastAlternate2"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary1AutoCast"
+			{
+				"Key"		"q"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary2AutoCast"
+			{
+				"Key"		"w"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityPrimary3AutoCast"
+			{
+				"Key"		"e"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary1AutoCast"
+			{
+				"Key"		"t"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilitySecondary2AutoCast"
+			{
+				"Key"		"g"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+			"AbilityUltimateAutoCast"
+			{
+				"Key"		"r"
+				"Modifier"		"ALT"
+				"Mode"		"0"
+			}
+		}
+	}
+	"HeroBuilds"
+	{
+		"abaddon"		"workshop: 168309246"
+		"alchemist"		"workshop: 356791078"
+		"antimage"		"workshop: 128960249"
+		"storm_spirit"		"workshop: 129143802"
+		"sniper"		"cloud: guides/sniper_scratch.build"
+		"terrorblade"		"workshop: 222265746"
+		"ursa"		"workshop: 254615876"
+		"treant"		"itembuild: treant"
+		"sand_king"		"workshop: 128868122"
+		"lone_druid"		"workshop: 176984007"
+		"faceless_void"		"workshop: 128922664"
+		"phantom_lancer"		"workshop: 129093311"
+		"windrunner"		"workshop: 434659379"
+		"shredder"		"workshop: 695002747"
+		"abyssal_underlord"		"workshop: 750400577"
+		"chen"		"workshop: 129081331"
+		"meepo"		"workshop: 129402256"
+		"ember_spirit"		"workshop: 251934276"
+		"magnataur"		"workshop: 353846884"
+		"juggernaut"		"workshop: 129083818"
+		"vengefulspirit"		"workshop: 129062086"
+		"medusa"		"workshop: 129403206"
+		"invoker"		"cloud: guides/invoker_scratch.build"
+		"zuus"		"workshop: 129065509"
+		"morphling"		"workshop: 129076227"
+		"legion_commander"		"workshop: 447409036"
+		"dragon_knight"		"workshop: 286904891"
+		"rubick"		"workshop: 128927319"
+		"drow_ranger"		"workshop: 128743885"
+		"silencer"		"workshop: 334021836"
+		"bounty_hunter"		"workshop: 128751287"
+		"templar_assassin"		"workshop: 128748151"
+		"necrolyte"		"workshop: 129193377"
+		"gyrocopter"		"workshop: 319106719"
+		"tinker"		"workshop: 129157199"
+		"visage"		"workshop: 130510888"
+	}
+}

@@ -1,0 +1,20 @@
+============
+Linux Setup:
+============
+
+#
+# Run the following commands from the top most archive
+# directory (where you extracted to):
+#
+
+# Build and install HLLib.
+make -C HLLib -f Makefile install
+
+# Update dynamic linker run time bindings.
+ldconfig
+
+# Build HLExtract.
+gcc -O2 -g HLExtract/Main.c -o HLExtract/hlextract -lhl
+
+# Install HLExtract.
+cp HLExtract/hlextract /usr/local/bin
