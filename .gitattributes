@@ -19,4 +19,8 @@ AUTHORS text
 *.png binary
 *.jpg binary
 *.jpeg binary
+*.ico binary
 *.gif binary
+*.vpk binary
+*.reg binary
+*.exe binary
