@@ -3,7 +3,7 @@
 ### What is this?
 
 The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to Space. This gives you 2 modifiers for your keyboard layout: Alt and Space.
-This is all achieved with only four lines of AHKcode:
+This is all achieved with only four lines of AHK code:
 
 `#SingleInstance force`
 
