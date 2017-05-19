@@ -2,12 +2,19 @@
 
 ### What is this?
 
-The engine that "unlocks" the WINDOWS modifier key in DotA 2 in addition to the already available ALT modifier.
-This is all achieved with only four lines of code:
+The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to Space. This gives you 2 modifiers for your keyboard layout: Alt and Space.
+This is all achieved with only four lines of AHKcode:
 
+`#SingleInstance force`
 
+`#IfWinActive ahk_exe dota2.exe`
 
-All they do is block the Windows OS from seeing the Windows key presses sent to dota2.exe.
+`~*Space::ControlSend, , {LWin Down}, Dota 2`
+
+`*Space Up::Send {LWin Up}`
+
+This ultra short code blocks the Windows OS from seeing the Windows key presses being sent to dota2.exe.
+Spacebar retains full functionality.
 
 ### How to set it up?
 
