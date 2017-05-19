@@ -18,9 +18,9 @@ Spacebar retains full functionality.
 
 ### How to set it up?
 
-##To Install:
+## To Install:
 
-####Only Supported on Windows Operating Systems
+#### Only Supported on Windows Operating Systems
 
 1. Place D2SpaceModifier.exe in your StartUp folder (I have provided a shortcut).
    You can use the .ahk in the source code folder instead if you have installed AutoHotKey. https://autohotkey.com/
@@ -36,7 +36,7 @@ Spacebar retains full functionality.
 
 6. launch DotA 2 and customize to your liking
 
-####Note: The SPACE modifier reads "WINDOWS" in-game.
+#### Note: The SPACE modifier reads "WINDOWS" in-game.
 
 ### How to uninstall?
 
