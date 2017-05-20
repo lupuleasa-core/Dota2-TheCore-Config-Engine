@@ -2,6 +2,8 @@ Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] "
 
 Launch Dota 2 and customize to your liking.
 
+
+
 No Modifier:
 ![image](https://cloud.githubusercontent.com/assets/19603023/26277989/6f11ca28-3d57-11e7-8472-4e4ff262df8d.png)
 
