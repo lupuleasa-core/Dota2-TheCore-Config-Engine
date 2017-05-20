@@ -2,7 +2,6 @@
 ## The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-
 The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for your keyboard layouts: Alt and Space.
 This is all achieved with only four lines of AHK code:
 
@@ -14,8 +13,7 @@ This is all achieved with only four lines of AHK code:
 
 > *Space Up::Send {LWin Up}
 
-This ultra short code blocks the Windows OS from seeing the Windows key presses being sent to dota2.exe.
-Spacebar retains full functionality.
+**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality.
 
 ### How to set it up?
 
