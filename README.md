@@ -1,4 +1,4 @@
-# DotA 2 Space Modifier (For Dual Modifier Keyboard Layouts)
+# DotA 2 Space Modifier (The Holy Grail of Dual Modifier Keyboard Layouts)
 
 ### What is this?
 
@@ -60,7 +60,7 @@ Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and 
 
 That is intended behaviour in my super compact layout, to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double tap self cast is impossible if you are using quick casts.
 
-This was done by disabling the `dota_ability_self_cast_timeout` tolerance. The way "double-taping" works is by using the "smart-double tap" in-game option (hold space and press an item or ability's hotkey).
+This was done by reducing the self cast timeout tolerance to 0. The way "double-taping" works is by using the "smart-double tap" in-game option (hold space and press an item or ability's hotkey).
 
 ##### Can I rebind stuff in-game?
 
