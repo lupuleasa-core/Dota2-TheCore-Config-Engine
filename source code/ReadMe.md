@@ -1,6 +1,6 @@
 It really is just a simple four lines.
 
-#*	
+*	
 
 Wildcard: Fire the hotkey even if extra modifiers are being held down. This is often used in conjunction with remapping keys or buttons. For example:
 
