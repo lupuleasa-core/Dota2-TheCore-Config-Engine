@@ -1,4 +1,4 @@
-# DotA 2 Space Modifier (The Holy Grail of Dual Modifier Keyboard Layouts)
+# DotA 2 Space Modifier (The Holy Grail of Triple Keyboard Layouts)
 
 ### What is this?
 
@@ -22,7 +22,7 @@ Spacebar retains full functionality.
 
 #### Only Supported on Windows Operating Systems
 
-1. Place D2SpaceModifier.exe in your StartUp folder (I have provided a shortcut).
+1. Place D2SpaceModifier.exe in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
    You can use the .ahk in the source code folder instead if you have installed AutoHotKey. https://autohotkey.com/
 
 2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
