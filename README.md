@@ -25,13 +25,13 @@ Spacebar retains full functionality.
 1. Place D2SpaceModifier.exe in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
    You can use the .ahk in the source code folder instead if you have installed AutoHotKey. https://autohotkey.com/
 
-2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
+2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
 3. Pick a cool layout from the numbered folders. I recommend number 1 (my own).
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
-5. Restart your computer. D2SpaceModifier.exe will run in the background but will not be active unless
+5. Restart your computer. D2SpaceModifier.exe will run in the background but will be inactive unless
    you have DotA 2 running and are "alt-tabbed" into it.
 
 6. Launch DotA 2 and customize to your liking.
@@ -47,7 +47,6 @@ Spacebar retains full functionality.
 3. Enable double-tap for self-cast in the dota 2 options by raising the timeout to something around 0.5.
 
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
-
 
 ### Known Valve Bugs:
 
@@ -74,13 +73,11 @@ That must be because of your non-standard keyboard. You should consider changing
 
 Yes.
 
-
 ### Alternatives
 
 1. ARCANA HOTKEYS II for Dota 2 - AVEYO's D-OPTIMIZER
    https://github.com/AveYo/D-OPTIMIZER.
-   This is a great keyboard layout and one you'll probably prefer if you are missing the extra features that came with Loopuleasa's        TheCore. You do have to modify dota 2's .vpk files. So don't use it to create cheats, or you'll get VAC banned. If you want the   extra features, use Arcana Hotkeys. If all you want is two modifiers with minimal features then you use this project.
-
+   This is a great keyboard layout and one you'll prefer if you are missing the extra features that came with Loopuleasa's                TheCore. You do have to modify dota 2's .vpk files. So don't use it to create cheats, or you'll get VAC banned.
 
 ### Made a cool keyboard layout and want to share it?
 
