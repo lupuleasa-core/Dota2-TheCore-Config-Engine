@@ -74,7 +74,7 @@ Yes.
 
 ##### How do I pick a modifier other than space?
 
-You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" with what every key you want such as "x" for example. Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
+You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
 
 ### Made a cool keyboard layout and want to share it?
 
