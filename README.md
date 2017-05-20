@@ -2,7 +2,7 @@
 ## The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for your keyboard layouts: Alt and Space.
+The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for keyboard layouts: Alt and Space.
 This is all achieved with only four lines of AHK code:
 
 > #SingleInstance force
