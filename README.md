@@ -2,7 +2,7 @@
 
 ### What is this?
 
-The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to Space. This gives you 2 modifiers for your keyboard layout: Alt and Space.
+The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for your keyboard layouts: Alt and Space.
 This is all achieved with only four lines of AHK code:
 
 `#SingleInstance force`
@@ -34,7 +34,7 @@ Spacebar retains full functionality.
 5. Restart your computer. D2SpaceModifier.exe will run in the background but will not be active unless
    you have DotA 2 running and are "alt-tabbed" into it.
 
-6. launch DotA 2 and customize to your liking
+6. Launch DotA 2 and customize to your liking.
 
 #### Note: The SPACE modifier reads "WINDOWS" in-game.
 
@@ -42,9 +42,9 @@ Spacebar retains full functionality.
 
 1. Just delete the files you pasted in the `Game`, `570`, and `StartUp` folder.
 
-2. Set your keybinds back to the way you want them
+2. Set your keybinds back to the way you want them.
 
-3. Enable double-tap for self-cast in the dota 2 options by raising the timeout to something around 0.5
+3. Enable double-tap for self-cast in the dota 2 options by raising the timeout to something around 0.5.
 
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
@@ -64,7 +64,7 @@ This was done by disabling the `dota_ability_self_cast_timeout` tolerance. The w
 
 ##### Can I rebind stuff in-game?
 
-You can change the binds of EVERYTHING you see using the default in-game UI.
+You can change the binds of almost everything using the default in-game UI.
 
 ##### Why do some of my commands not trigger?
 
