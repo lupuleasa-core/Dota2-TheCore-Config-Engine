@@ -73,12 +73,6 @@ That must be because of your non-standard keyboard. You should consider changing
 
 Yes.
 
-### Alternatives
-
-1. ARCANA HOTKEYS II for Dota 2 - AVEYO's D-OPTIMIZER
-   https://github.com/AveYo/D-OPTIMIZER.
-   This is a great keyboard layout and one you'll prefer if you are missing the extra features that came with Loopuleasa's                TheCore. You do have to modify dota 2's .vpk files. So don't use it to create cheats, or you'll get VAC banned.
-
 ### Made a cool keyboard layout and want to share it?
 
 Contact me and I might add it to the main repository for people to see, and I'll give you credit.
