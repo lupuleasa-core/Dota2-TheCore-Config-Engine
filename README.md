@@ -25,9 +25,9 @@ Spacebar retains full functionality.
 1. Place D2SpaceModifier.exe in your StartUp folder (I have provided a shortcut).
    You can use the .ahk in the source code folder instead if you have installed AutoHotKey. https://autohotkey.com/
 
-2. Pick a cool layout inside the keyboard layouts folder. I recommend my own.
+2. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
 
-3. Place the "Game" folder inside of "Steam\steamapps\common\dota 2 beta" and overwrite.
+3. Pick a cool layout from the numbered folders. I recommend number 1 (my own).
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
