@@ -1,4 +1,5 @@
-# DotA 2 Space Modifier (The Holy Grail of Triple Keyboard Layouts)
+# DotA 2 Space Modifier:
+# The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
 
