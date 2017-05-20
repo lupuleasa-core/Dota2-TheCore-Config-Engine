@@ -1,6 +1,6 @@
 Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
-Launch Dota 2 and customize to your liking.
+Launch DotA 2 and customize to your liking.
 
 
 
