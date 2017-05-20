@@ -72,6 +72,10 @@ That must be because of your non-standard keyboard. You should consider changing
 
 Yes.
 
+##### How do I pick a modifier other than space?
+
+You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" with what every key you want such as "x" for example.
+
 ### Made a cool keyboard layout and want to share it?
 
 Contact me and I might add it to the main repository for people to see, and I'll give you credit.
