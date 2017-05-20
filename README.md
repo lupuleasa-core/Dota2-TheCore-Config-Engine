@@ -7,8 +7,11 @@ The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it t
 This is all achieved with only four lines of AHK code:
 
 > #SingleInstance force
+
 > #IfWinActive ahk_exe dota2.exe
+
 > ~*Space::ControlSend, , {LWin Down}, Dota 2
+
 > *Space Up::Send {LWin Up}
 
 This ultra short code blocks the Windows OS from seeing the Windows key presses being sent to dota2.exe.
