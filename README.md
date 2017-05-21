@@ -4,13 +4,10 @@
 ### What is this?
 The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for keyboard layouts: Alt and Space. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of four lines of AHK code:
 
-> #SingleInstance force
-
-> #IfWinActive ahk_exe dota2.exe
-
-> ~*Space::ControlSend, , {LWin Down}, Dota 2
-
-> *Space Up::Send {LWin Up}
+    #SingleInstance force
+    #IfWinActive ahk_exe dota2.exe
+    ~*Space::ControlSend, , {LWin Down}, Dota 2
+    *Space Up::Send {LWin Up}
 
 **Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality. Believe it or not, this is all we need to make the Spacebar into a modifier just like Alt. This is because Valve already had the windows keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
