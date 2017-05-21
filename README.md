@@ -27,6 +27,12 @@ The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it t
 
 3. Pick a cool layout from the numbered folders. I recommend number 1 (my own).
 
+* [No Modifier](https://cloud.githubusercontent.com/assets/19603023/26277989/6f11ca28-3d57-11e7-8472-4e4ff262df8d.png)
+
+* [Space Pressed](https://cloud.githubusercontent.com/assets/19603023/26277992/7bbc7a02-3d57-11e7-9e77-dd6ce634c991.png)
+
+* [Alt Pressed](https://cloud.githubusercontent.com/assets/19603023/26277996/84c0ccf2-3d57-11e7-96bc-418a29a09293.png)
+
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
 5. Restart your computer. D2SpaceModifier.exe will run in the background but will be inactive unless
