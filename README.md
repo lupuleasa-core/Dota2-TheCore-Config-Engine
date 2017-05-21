@@ -2,8 +2,7 @@
 ## The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for keyboard layouts: Alt and Space.
-This is all achieved with only four lines of AHK code:
+The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for keyboard layouts: Alt and Space. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of four lines of AHK code:
 
 > #SingleInstance force
 
@@ -13,7 +12,7 @@ This is all achieved with only four lines of AHK code:
 
 > *Space Up::Send {LWin Up}
 
-**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality.
+**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality. Believe it or not, this is all we need to make the Spacebar into a modifier just like Alt.
 
 ### How to set it up?
 
@@ -22,7 +21,7 @@ This is all achieved with only four lines of AHK code:
 #### Only Supported on Windows Operating Systems
 
 1. Place D2SpaceModifier.exe in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
-   You can use the .ahk in the source code folder instead if you have installed AutoHotKey. https://autohotkey.com/
+   You can use the .ahk in the source code folder instead if you have AutoHotKey installed. https://autohotkey.com/
 
 2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
@@ -46,7 +45,7 @@ Behold the SPACE modifier in action!
 
 2. Set your keybinds back to the way you want them.
 
-3. Enable double-tap for self-cast in the dota 2 options by raising the timeout to something around 0.5.
+3. Enable double-tap for self-cast in the DotA 2 options by raising the timeout to something around 0.5.
 
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
@@ -77,7 +76,7 @@ Yes.
 
 ##### How do I pick a modifier other than space?
 
-You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
+You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Here is a list of some AHK keys with unique names if you wish to bind to one of those (https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
 
 ### Made a cool keyboard layout and want to share it?
 
