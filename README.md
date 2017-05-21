@@ -80,5 +80,5 @@ You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk 
 
 ### Made a cool keyboard layout and want to share it?
 
-Contact me and I might add it to the main repository for people to see, and I'll give you credit.
+Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf) and I might add it to the main repository for people to see, and I'll give you credit.
 If you know how to use git, just fork this repo and request a merge using a pull request.
