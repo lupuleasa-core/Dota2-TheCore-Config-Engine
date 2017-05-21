@@ -22,7 +22,7 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
 
 2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
-3. Pick a cool layout from the numbered folders. I recommend number 1 (my own).
+3. Pick a cool layout from the numbered folders or create your own. I recommend number 1 (my personal layout).
 
 * [No Modifier](https://cloud.githubusercontent.com/assets/19603023/26277989/6f11ca28-3d57-11e7-8472-4e4ff262df8d.png)
 
