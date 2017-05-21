@@ -1,4 +1,4 @@
-It really is just a simple four lines.
+It really is just a simple four lines. View the .ahk.
 
 Here is all the supporting documentation you need to fully understand it:
 
