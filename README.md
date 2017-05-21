@@ -15,6 +15,9 @@ This is all achieved with only four lines of AHK code:
 
 **Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality.
 
+Behold the modifier in action!
+![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
+
 ### How to set it up?
 
 ## To Install:
