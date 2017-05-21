@@ -81,6 +81,10 @@ Yes.
 
 You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Here is a list of some AHK keys with unique names if you wish to bind to one of those (https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
 
+**Will this get me banned?**
+
+Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I haven't been banned and have played 1000+ games.
+
 **Can't you just disable the windows key using registry edits?**
 
 dota2.exe won't be able to see the key press then.
