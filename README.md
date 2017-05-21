@@ -2,14 +2,14 @@
 ## The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it to the spacebar. This gives you 2 modifiers for keyboard layouts: Alt and Space. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of four lines of AHK code:
+The engine that "unlocks" the <kbd>WINDOWS<kbd> modifier key in DotA 2 and then binds it to the <kbd>SPACE<kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE<kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of four lines of AHK code:
 
     #SingleInstance force
     #IfWinActive ahk_exe dota2.exe
     ~*Space::ControlSend, , {LWin Down}, Dota 2
     *Space Up::Send {LWin Up}
 
-**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality. Believe it or not, this is all we need to make the Spacebar into a modifier just like Alt. This is because Valve already had the windows keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
+**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** <kbd>SPACE<kbd> retains full functionality. Believe it or not, this is all we need to make <kbd>SPACE<kbd> into a modifier just like <kbd>ALT<kbd>. This is because Valve already had the <kbd>WINDOWS<kbd> keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
 ### How to set it up?
 
@@ -37,7 +37,7 @@ The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it t
 
 6. Launch DotA 2 and customize to your liking.
 
-#### Note: The SPACE modifier reads "WINDOWS" in-game.
+#### Note: The <kbd>SPACE<kbd> modifier reads "WINDOWS" in-game.
 
 Behold the SPACE modifier in action!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
@@ -77,7 +77,7 @@ That must be because of your non-standard keyboard. You should consider changing
 
 Yes.
 
-**How do I pick a modifier other than space?**
+**How do I pick a modifier other than <kbd>SPACE<kbd>?**
 
 You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Here is a list of some AHK keys with unique names if you wish to bind to one of those (https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
 
