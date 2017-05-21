@@ -67,7 +67,7 @@ This was done by reducing the self cast timeout tolerance to 0. The way "double-
 
 **Can I rebind stuff in-game?**
 
-You can change the binds of almost everything using the default in-game ui.
+You can change the binds of almost everything using the default in-game UI.
 
 **Why do some of my commands not trigger?**
 
