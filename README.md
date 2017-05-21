@@ -12,7 +12,7 @@ The engine that "unlocks" the WINDOWS modifier key in DotA 2 and then binds it t
 
 > *Space Up::Send {LWin Up}
 
-**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality. Believe it or not, this is all we need to make the Spacebar into a modifier just like Alt.
+**Simply put, this code hides all down key presses of the left windows key from ALL applications EXCEPT dota2.exe.** Spacebar retains full functionality. Believe it or not, this is all we need to make the Spacebar into a modifier just like Alt. This is because Valve already had the windows keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
 ### How to set it up?
 
