@@ -62,29 +62,29 @@ Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and 
 
 ### Frequently Asked Questions
 
-##### Why can't I double-tap to self-cast or change wards with double-tap?
+**Why can't I double-tap to self-cast or change wards with double-tap?**
 
 That is intended behaviour in my super compact layout, to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double tap self cast is impossible if you are using quick casts.
 
 This was done by reducing the self cast timeout tolerance to 0. The way "double-taping" works is by using the "smart-double tap" in-game option (hold space and press an item or ability's hotkey).
 
-##### Can I rebind stuff in-game?
+**Can I rebind stuff in-game?**
 
 You can change the binds of almost everything using the default in-game ui.
 
-##### Why do some of my commands not trigger?
+**Why do some of my commands not trigger?**
 
 That must be because of your non-standard keyboard. You should consider changing your keyboard layout to standard English in Windows options.
 
-##### Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?
+**Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
 Yes.
 
-##### How do I pick a modifier other than space?
+**How do I pick a modifier other than space?**
 
 You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Here is a list of some AHK keys with unique names if you wish to bind to one of those (https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
 
-##### Can't you just disable the windows key using registry edits?
+**Can't you just disable the windows key using registry edits?**
 
 dota2.exe won't be able to see the key press then.
 
