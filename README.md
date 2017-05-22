@@ -76,7 +76,7 @@ That must be because of your non-standard keyboard. You should consider changing
 
 **Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
-Yes.
+No. Line 5 of the script disables <kbd>CAPSLOCK</kbd>.
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
