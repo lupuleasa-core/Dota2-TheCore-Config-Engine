@@ -8,6 +8,7 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
     #IfWinActive ahk_exe dota2.exe
     ~*Space::ControlSend, , {LWin Down}, Dota 2
     *Space Up::Send {LWin Up}
+    ~*CapsLock Up::SetCapsLockState Off
 
 **Simply put, this code hides all down key presses of the left windows key from the operating system ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. Believe it or not, this is all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
