@@ -1,4 +1,4 @@
-It really is just a simple four lines. View "D2SpaceModifier.ahk".
+It really is just a simple five lines. View "D2SpaceModifier.ahk".
 
 Here is all the supporting documentation you need to fully understand it:
 
@@ -11,3 +11,5 @@ https://autohotkey.com/docs/Hotkeys.htm
 https://autohotkey.com/docs/commands/Send.htm
 
 https://autohotkey.com/docs/commands/ControlSend.htm
+
+https://autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm
