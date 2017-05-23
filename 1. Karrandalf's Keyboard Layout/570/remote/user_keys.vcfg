@@ -28,6 +28,5 @@
 		"-"		"dota_player_add_summoned_to_selection 0"
 		"\"		"toggleconsole"
 		"KP_0"		"dota_camera_center"
-		"g"		"dota_item_execute 2"
 	}
 }
