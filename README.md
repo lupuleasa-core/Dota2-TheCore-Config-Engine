@@ -112,7 +112,7 @@ You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk 
 
 **Will this get me banned?**
 
-Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I haven't been banned and have played 1000+ games.
+Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned.
 
 **Can't you just disable the windows key using registry edits?**
 
