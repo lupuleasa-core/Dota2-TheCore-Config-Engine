@@ -123,7 +123,7 @@ Remember, all the script does is allow dota2.exe to see the windows key press wh
 
 **Can't you just disable the windows key using registry edits?**
 
-dota2.exe won't be able to see the key press then.
+The dota2.exe won't be able to see the key press then.
 
 ### Made a cool keyboard layout and want to share it?
 
