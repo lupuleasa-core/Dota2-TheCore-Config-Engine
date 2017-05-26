@@ -35,4 +35,4 @@
 
 ; 7. **Optional**
 ; Disables the left windows key while inside of DotA 2.
-LWin::Return
+*LWin::Return
