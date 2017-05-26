@@ -15,6 +15,7 @@
 ~*Space::ControlSend, , {LWin Down}, Dota 2 
 
 ; **Required**
+; https://autohotkey.com/docs/commands/Send.htm
 ; Allows all releases of the left windows key to be seen by the operating system and ALL applications INCLUDING dota2.exe.
 *Space Up::Send {LWin Up}
 
