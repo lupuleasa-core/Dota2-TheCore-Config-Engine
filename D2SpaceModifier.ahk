@@ -30,7 +30,7 @@
 
 ; 6. **Optional**
 ; Binds the Unified Orders Modifier to Mouse5 while inside DotA 2 inorder to improve accessibility.
-; Does not conflict with other mouse binding software.
+; Overrides other mouse binding software.
 *XButton2::Ctrl
 
 ; 7. **Optional**
