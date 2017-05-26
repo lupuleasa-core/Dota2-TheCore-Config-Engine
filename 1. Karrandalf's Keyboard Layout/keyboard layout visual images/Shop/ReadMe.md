@@ -1,6 +1,6 @@
 The shop hotkeys have not proved to be particularily useful since 7.00, so I removed them in favor of the search upon open shop option.
 
-Use shift to que an item in the quick buy.
+Use shift to que a single item in the quick buy.
 
 Use ctrl + shift to que multiple items in the quick buy.
 
