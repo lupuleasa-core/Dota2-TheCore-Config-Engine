@@ -16,13 +16,13 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
     ; 3. **Required**
     ; *Documentation: https://autohotkey.com/docs/Hotkeys.htm *
     ; *Documentation: https://autohotkey.com/docs/commands/ControlSend.htm *
-    ; Hides all down key presses of the left windows key from the operating system
+    ; Hides all down key presses of the left Windows key from the operating system
     ; and ALL applications EXCEPT dota2.exe.
     ~*Space::ControlSend, , {LWin Down}, Dota 2 
     
     ; 4. **Required**
     ; *Documentation: https://autohotkey.com/docs/commands/Send.htm *
-    ; Allows all releases of the left windows key to be seen by the operating system
+    ; Allows all releases of the left Windows key to be seen by the operating system
     ; and ALL applications INCLUDING dota2.exe.
     *Space Up::Send {LWin Up}
     
@@ -106,7 +106,7 @@ You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk 
 
 **Will this get me banned?**
 
-Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned and won't be because there isn't anything in my script that is flagged as a cheat. There are AHK scripts that will get you banned, but that is not this script.
+Remember, all the script does is allow dota2.exe to see the Windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned and won't be because there isn't anything in my script that is flagged as a cheat. There are AHK scripts that will get you banned, but that is not this script.
 
 **Can you just disable the Windows key using registry edits?**
 
