@@ -57,11 +57,11 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 3. Pick a cool layout from the numbered folders or create your own. I recommend number 1 (my personal layout).
 
-* [No Modifier](https://cloud.githubusercontent.com/assets/19603023/26277989/6f11ca28-3d57-11e7-8472-4e4ff262df8d.png)
+* [No Modifier](https://cloud.githubusercontent.com/assets/19603023/26514200/003b5946-4236-11e7-96cc-7f7bd7e7cc44.png)
 
-* [Space Pressed](https://cloud.githubusercontent.com/assets/19603023/26277992/7bbc7a02-3d57-11e7-9e77-dd6ce634c991.png)
+* [Space Pressed](https://cloud.githubusercontent.com/assets/19603023/26514204/034dc7c2-4236-11e7-9ff2-02db2002a879.png)
 
-* [Alt Pressed](https://cloud.githubusercontent.com/assets/19603023/26277996/84c0ccf2-3d57-11e7-96bc-418a29a09293.png)
+* [Alt Pressed](https://cloud.githubusercontent.com/assets/19603023/26514207/0634c224-4236-11e7-834b-bfa60ae8617c.png)
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
