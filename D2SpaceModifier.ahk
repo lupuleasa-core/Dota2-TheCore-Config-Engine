@@ -29,5 +29,10 @@
 ~*CapsLock Up::SetCapsLockState Off
 
 ; 6. **Optional**
-; Binds the Unified Orders Modifier to Mouse5 inorder to improve accessibility.
+; Binds the Unified Orders Modifier to Mouse5 while inside DotA 2 inorder to improve accessibility.
+; Does not conflict with other mouse binding software.
 *XButton2::Ctrl
+
+; 7. **Optional**
+; Disables the left windows key while inside of DotA 2.
+LWin::Return
