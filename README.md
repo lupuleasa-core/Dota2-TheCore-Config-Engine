@@ -47,7 +47,9 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
 #### Only Supported on Windows Operating Systems
 
 1. Place D2SpaceModifier.exe in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
-   You can use the .ahk in the source code folder instead if you have AutoHotKey installed. https://autohotkey.com/
+   You can use the .ahk instead if you have AutoHotKey installed. https://autohotkey.com/
+
+#### Note: The compiled .exe is only included in releases. If you don't see the .exe, then you have downloaded the lastest unreleased version and have to use the .ahk instead (or compile a .exe yourself).
 
 2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
