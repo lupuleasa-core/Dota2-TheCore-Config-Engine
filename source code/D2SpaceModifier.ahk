@@ -20,6 +20,7 @@
 *Space Up::Send {LWin Up}
 
 ; **Highly Recommended**
+; https://autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm
 ; Upon releasing the CapsLock key, the CapsLock State is set to off. 
 ; This method allows you to still bind keys to it using the in-game UI.
 ; It also prevents conflict due to the windows key and CapsLock interaction.
