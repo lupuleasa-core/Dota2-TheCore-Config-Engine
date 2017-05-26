@@ -10,7 +10,7 @@
 
 ; **Required**
 ; https://autohotkey.com/docs/Hotkeys.htm
-;
+; https://autohotkey.com/docs/commands/ControlSend.htm
 ; Hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.
 ~*Space::ControlSend, , {LWin Down}, Dota 2 
 
