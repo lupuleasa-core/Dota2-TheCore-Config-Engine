@@ -44,8 +44,6 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
     
 **Simply put, this code hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. Believe it or not, this is all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
-### How to set it up?
-
 ## To Install:
 
 *Only Supported on Windows Operating Systems*
@@ -77,7 +75,7 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
 Behold our <kbd>SPACE</kbd> modifier in action!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
-### How to uninstall?
+## How to uninstall?
 
 1. Just delete the files you pasted in the `Game`, `570`, and `StartUp` folder.
 
@@ -87,12 +85,12 @@ Behold our <kbd>SPACE</kbd> modifier in action!
 
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
-### Known Valve Bugs:
+## Known Valve Bugs:
 
 1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
 Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and out of my control.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 **Why can't I double-tap to self-cast or change wards with double-tap?**
 
@@ -124,7 +122,7 @@ Remember, all the script does is allow dota2.exe to see the windows key press wh
 
 The dota2.exe won't be able to see the key press then.
 
-### Made a cool keyboard layout and want to share it?
+## Made a cool keyboard layout and want to share it?
 
 Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf) and I might add it to the main repository for people to see, and I'll give you credit.
 If you know how to use git, just fork this repo and request a merge using a pull request.
