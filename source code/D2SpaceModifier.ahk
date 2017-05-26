@@ -1,4 +1,5 @@
 ; **Highly Recommended**
+; https://autohotkey.com/docs/commands/_SingleInstance.htm
 ; Prevents more than one instance of this script from running by closing the old instance when a new one is ran.
 #SingleInstance force 
 
