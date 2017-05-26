@@ -35,9 +35,14 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
     ~*CapsLock Up::SetCapsLockState Off
     
     ; 6. **Optional**
-    ; Binds the Unified Orders Modifier to Mouse5 inorder to improve accessibility.
+    ; Binds the Unified Orders Modifier to Mouse5 while inside DotA 2 inorder to improve accessibility.
+    ; Does not conflict with other mouse binding software.
     *XButton2::Ctrl
 
+    ; 7. **Optional**
+    ; Disables the left windows key while inside of DotA 2.
+    *LWin::Return
+    
 **Simply put, this code hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. Believe it or not, this is all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
 
 ### How to set it up?
