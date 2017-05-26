@@ -75,9 +75,9 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 Behold our <kbd>SPACE</kbd> modifier in action!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
-## How to uninstall?
+## To Uninstall:
 
-1. Just delete the files you pasted in the `Game`, `570`, and `StartUp` folder.
+1. Delete the files you pasted in the `Game`, `570`, and `StartUp` folders.
 
 2. Set your keybinds back to the way you want them.
 
@@ -85,10 +85,10 @@ Behold our <kbd>SPACE</kbd> modifier in action!
 
 *Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
-## Known Valve Bugs:
+## Known Bugs
 
 1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
-Only affects Ogre Magi, Lich, and neutral troll priest. This is a Valve bug and out of my control.
+Only affects Ogre Magi, Lich, and neutral troll priest. This is a **Valve bug** and out of my control.
 
 ## Frequently Asked Questions
 
@@ -118,7 +118,7 @@ You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk 
 
 Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned.
 
-**Can't you just disable the windows key using registry edits?**
+**Can you just disable the windows key using registry edits?**
 
 The dota2.exe won't be able to see the key press then.
 
