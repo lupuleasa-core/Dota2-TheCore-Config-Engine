@@ -4,7 +4,6 @@
 *.vcfg text
 *.txt text
 *.ahk text
-*.bat text
 
 # git config
 .gitattributes text
