@@ -4,6 +4,7 @@
 #SingleInstance force 
 
 ; **Highly Recommended**
+; https://autohotkey.com/docs/commands/_IfWinActive.htm
 ; Makes the script only active while you are "Alt-tabbed" into DotA 2.
 #IfWinActive ahk_exe dota2.exe 
 
