@@ -64,7 +64,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 6. Launch DotA 2 and customize to your liking.
 
-*Note: The <kbd>SPACE</kbd> modifier reads "WINDOWS" in-game.*
+*Note: The <kbd>SPACE</kbd> modifier reads <kbd>WINDOWS</kbd> in-game.*
 
 Behold our free <kbd>SPACE</kbd> modifier!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
