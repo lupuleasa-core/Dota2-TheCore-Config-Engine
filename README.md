@@ -1,7 +1,7 @@
 ## DotA 2 Space Modifier: The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of five lines of AHK code (and two optional lines):
+The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
 
     ; 1. **Highly Recommended**
     ; Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm
@@ -42,7 +42,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
     ; Disables the left windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. Believe it or not, this is all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we can't use them is because of windows shortcuts "Alt-tabbing" us out of DotA.
+**Simply put, this code hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of windows shortcuts "Alt-tabbing" us out of DotA. The **sacred five lines** fix this issue.
 
 ## To Install
 
@@ -55,7 +55,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
-3. Pick a cool layout from the numbered folders or create your own. I recommend number 1 ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
+3. Select a layout from the numbered folders or create your own. I recommend number 1 ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
@@ -66,7 +66,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 *Note: The <kbd>SPACE</kbd> modifier reads "WINDOWS" in-game.*
 
-Behold our <kbd>SPACE</kbd> modifier in action!
+Behold our free <kbd>SPACE</kbd> modifier!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
 ## To Uninstall
@@ -74,10 +74,6 @@ Behold our <kbd>SPACE</kbd> modifier in action!
 1. Delete the files you pasted in the `Game`, `570`, and `StartUp` folders.
 
 2. Set your keybinds back to the way you want them.
-
-3. Enable double-tap for self-cast in the DotA 2 options by raising the timeout to something around 0.5.
-
-*Note: Double tap selfcast is intentionally disabled to prevent miscasts*
 
 ## Known Bugs
 
@@ -106,17 +102,17 @@ No. Line 5 of the script disables <kbd>CAPSLOCK</kbd>. You can still use it as a
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
-You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk in the "Source Code" folder by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example. Here is a list of some AHK keys with unique names if you wish to bind to one of those (https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the exe (or compile a new exe yourself). Restart your computer and finish installation and tweaking as usual.
+You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk by replacing the word "Space" on lines 3 and 4 with what ever key you want such as "x" for example (here is a list of some AHK keys with unique names (https://autohotkey.com/docs/KeyList.htm)). Place your edited script in your StartUp folder instead of the .exe (or compile a new .exe yourself). Restart your computer and finish installation and tweaking as usual.
 
 **Will this get me banned?**
 
-Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned.
+Remember, all the script does is allow dota2.exe to see the windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned and won't be because there isn't anything in my script that is flagged as a cheat. There are AHK scripts that will get you banned, but that is not this script.
 
 **Can you just disable the windows key using registry edits?**
 
-The dota2.exe won't be able to see the key press then.
+The dota2.exe will not be able to see the key press then.
 
 ## Made a cool keyboard layout and want to share it?
 
-Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf) and I might add it to the main repository for people to see, and I'll give you credit.
+Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf), and I might add it to the main repository crediting you.
 If you know how to use git, just fork this repo and request a merge using a pull request.
