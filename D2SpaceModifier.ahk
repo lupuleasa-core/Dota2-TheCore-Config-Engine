@@ -24,7 +24,7 @@
 ; 5. **Highly Recommended**
 ; Documentation: https://autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm
 ; Upon releasing the CapsLock key, the CapsLock State is set to off. 
-; It prevents conflict due to the windows key and CapsLock interaction.
+; It prevents a conflict due to the windows key and CapsLock interaction.
 ; This method allows you to still use the CapsLock key as a hotkey in the in-game UI.
 ~*CapsLock Up::SetCapsLockState Off
 
