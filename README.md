@@ -2,7 +2,7 @@
 ## The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
-The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of five lines of AHK code:
+The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of five lines of AHK code (and 1 optional line):
 
     ; **Highly Recommended**
     ; https://autohotkey.com/docs/commands/_SingleInstance.htm
@@ -17,12 +17,14 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
     ; **Required**
     ; https://autohotkey.com/docs/Hotkeys.htm
     ; https://autohotkey.com/docs/commands/ControlSend.htm
-    ; Hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.
+    ; Hides all down key presses of the left windows key from the operating system
+    ; and ALL applications EXCEPT dota2.exe.
     ~*Space::ControlSend, , {LWin Down}, Dota 2 
     
     ; **Required**
     ; https://autohotkey.com/docs/commands/Send.htm
-    ; Allows all releases of the left windows key to be seen by the operating system and ALL applications INCLUDING dota2.exe.
+    ; Allows all releases of the left windows key to be seen by the operating system
+    ; and ALL applications INCLUDING dota2.exe.
     *Space Up::Send {LWin Up}
     
     ; **Highly Recommended**
