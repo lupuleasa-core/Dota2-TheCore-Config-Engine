@@ -68,7 +68,7 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
 
 #### Note: The <kbd>SPACE</kbd> modifier reads "WINDOWS" in-game.
 
-Behold the <kbd>SPACE</kbd> modifier in action!
+Behold our <kbd>SPACE</kbd> modifier in action!
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
 ### How to uninstall?
