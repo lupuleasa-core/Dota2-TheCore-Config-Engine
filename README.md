@@ -98,7 +98,7 @@ That must be because of your non-standard keyboard. You should consider changing
 
 **Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
-No. Line 5 of the script disables <kbd>CAPSLOCK</kbd>. You can still use it as a hotkey in the in-game UI.
+No, the fifth of the script disables <kbd>CAPSLOCK</kbd>. You can still use it as a hotkey in the in-game UI.
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
