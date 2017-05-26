@@ -55,13 +55,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
-3. Pick a cool layout from the numbered folders or create your own. I recommend number 1 (my personal layout).
-
-* [No Modifier](https://cloud.githubusercontent.com/assets/19603023/26514200/003b5946-4236-11e7-96cc-7f7bd7e7cc44.png)
-
-* [Space Pressed](https://cloud.githubusercontent.com/assets/19603023/26514204/034dc7c2-4236-11e7-9ff2-02db2002a879.png)
-
-* [Alt Pressed](https://cloud.githubusercontent.com/assets/19603023/26514207/0634c224-4236-11e7-834b-bfa60ae8617c.png)
+3. Pick a cool layout from the numbered folders or create your own. I recommend number 1 ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
