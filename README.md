@@ -4,37 +4,37 @@
 ### What is this?
 The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of five lines of AHK code (and 1 optional line):
 
-    ; **Highly Recommended**
+    ; 1. **Highly Recommended**
     ; Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm
     ; Prevents more than one instance of this script from running by closing the old instance when a new one is ran.
     #SingleInstance force 
     
-    ; **Highly Recommended**
+    ; 2. **Highly Recommended**
     ; Documentation: https://autohotkey.com/docs/commands/_IfWinActive.htm
     ; Makes the script only active while you are "Alt-tabbed" into DotA 2.
     #IfWinActive ahk_exe dota2.exe 
 
-    ; **Required**
+    ; 3. **Required**
     ; Documentation: https://autohotkey.com/docs/Hotkeys.htm
     ; Documentation: https://autohotkey.com/docs/commands/ControlSend.htm
     ; Hides all down key presses of the left windows key from the operating system
     ; and ALL applications EXCEPT dota2.exe.
     ~*Space::ControlSend, , {LWin Down}, Dota 2 
     
-    ; **Required**
+    ; 4. **Required**
     ; Documentation: https://autohotkey.com/docs/commands/Send.htm
     ; Allows all releases of the left windows key to be seen by the operating system
     ; and ALL applications INCLUDING dota2.exe.
     *Space Up::Send {LWin Up}
     
-    ; **Highly Recommended**
+    ; 5. **Highly Recommended**
     ; Documentation: https://autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm
     ; Upon releasing the CapsLock key, the CapsLock State is set to off. 
     ; It prevents conflict due to the windows key and CapsLock interaction.
     ; This method allows you to still use the CapsLock key as a hotkey in the in-game UI.
     ~*CapsLock Up::SetCapsLockState Off
     
-    ; **Optional**
+    ; 6. **Optional**
     ; Binds the Unified Orders Modifier to Mouse5 inorder to improve accessibility.
     *XButton2::Ctrl
 
