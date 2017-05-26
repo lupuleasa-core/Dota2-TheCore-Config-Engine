@@ -62,7 +62,7 @@ The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
 5. Restart your computer. D2SpaceModifier.exe will run in the background but will be inactive unless
-   you have DotA 2 running and are "alt-tabbed" into it.
+   you have DotA 2 running and are "Alt-tabbed" into it.
 
 6. Launch DotA 2 and customize to your liking.
 
