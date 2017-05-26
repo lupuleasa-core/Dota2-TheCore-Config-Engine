@@ -1,4 +1,4 @@
-# DotA 2 Space Modifier: The Holy Grail of Triple Keyboard Layouts
+## DotA 2 Space Modifier: The Holy Grail of Triple Keyboard Layouts
 
 ### What is this?
 The engine that "unlocks" the <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you 2 modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall Loopuleasa's work which was broken by Valve's limits to the autoexec in the spring of 2016. This project is a fork from the former and restores most of its functionality with the addition of five lines of AHK code (and two optional lines):
