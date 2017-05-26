@@ -29,7 +29,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
     ; 5. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/SetNumScrollCapsLockState.htm *
     ; Upon releasing the CapsLock key, the CapsLock State is set to off. 
-    ; It prevents a conflict due to the windows key and CapsLock interaction.
+    ; It prevents a conflict due to the Windows key and CapsLock interaction.
     ; This method allows you to still use the CapsLock key as a hotkey in the in-game UI.
     ~*CapsLock Up::SetCapsLockState Off
     
@@ -39,10 +39,10 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
     *XButton2::Ctrl
 
     ; 7. **Optional**
-    ; Disables the left windows key while inside of DotA 2.
+    ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. The **sacred five lines** fix this issue.
+**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. The **sacred five lines** fix this issue.
 
 ## To Install
 
