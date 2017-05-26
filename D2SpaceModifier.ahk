@@ -29,7 +29,7 @@
 ~*CapsLock Up::SetCapsLockState Off
 
 ; 6. **Optional**
-; Binds the Unified Orders Modifier to Mouse5 while inside DotA 2 inorder to improve accessibility.
+; Binds the Unified Command Modifier to Mouse5 while inside DotA 2 inorder to improve accessibility.
 ; Overrides other mouse binding software.
 *XButton2::Ctrl
 
