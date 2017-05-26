@@ -9,6 +9,8 @@
 #IfWinActive ahk_exe dota2.exe 
 
 ; **Required**
+; https://autohotkey.com/docs/Hotkeys.htm
+;
 ; Hides all down key presses of the left windows key from the operating system and ALL applications EXCEPT dota2.exe.
 ~*Space::ControlSend, , {LWin Down}, Dota 2 
 
