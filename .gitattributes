@@ -17,3 +17,4 @@ AUTHORS text
 # (binary is a macro for -text -diff)
 *.png binary
 *.ico binary
+*.exe binary
