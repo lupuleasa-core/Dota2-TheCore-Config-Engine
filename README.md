@@ -56,7 +56,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 3. Select a layout from the numbered folders or create your own. I recommend number one ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
 
-4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
+4. Place the "570" folder inside of "Steam\userdata\[Your 9 digit Steam ID here]" and overwrite.
 
 5. Restart your computer. `D2SpaceModifier.exe` will run in the background but will be inactive unless
    you have DotA 2 running and are "Alt-tabbed" into it.
@@ -90,6 +90,8 @@ This was done by reducing the self cast timeout tolerance to zero. The way "doub
 **Can I rebind stuff in-game?**
 
 You can change the binds of almost everything using the default in-game UI.
+
+Some keys require you to edit `user_keys.vcfg` in the "Steam\userdata\[Your 9 digit Steam ID here]\570" folder.
 
 **Why do some of my commands not trigger?**
 
