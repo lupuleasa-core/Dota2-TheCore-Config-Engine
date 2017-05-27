@@ -21,12 +21,14 @@
 		"KP_4"		"+moveleft"
 		"KP_6"		"+moveright"
 		"KP_8"		"+forward"
+		"F5"		"dota_camera_center"
+		"F6"		"hud_toggle_visibility"
+		"F7"		"incrementvar dota_mouse_window_lock 0 1 1"
 		"F8"		"gameui_activate"
 		"F10"		"dota_toggle_combatlog"
 		"F11"		"incrementvar developer 0 1 1"
 		"="		"dota_player_add_summoned_to_selection 1"
 		"-"		"dota_player_add_summoned_to_selection 0"
 		"\"		"toggleconsole"
-		"KP_0"		"dota_camera_center"
 	}
 }
