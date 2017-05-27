@@ -121,7 +121,7 @@ I used the AHK script during development and the executable in post-development,
 
 **Can you just disable the Windows key using registry edits?**
 
-Then, dota2.exe will not be able to see the key press.
+The dota2.exe will not be able to see the key press.
 
 ## Made a cool keyboard layout and want to share it?
 
