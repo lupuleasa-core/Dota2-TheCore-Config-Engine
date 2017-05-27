@@ -68,7 +68,7 @@ Behold our free <kbd>SPACE</kbd> modifier!
 
 ## To Uninstall
 
-1. Delete the files you pasted in the "Game", "570", and "StartUp" folders.
+1. Delete the files you pasted in the " Game ", " 570 ", and " StartUp " folders.
 
 2. Set your keybinds back to the way you want them.
 
