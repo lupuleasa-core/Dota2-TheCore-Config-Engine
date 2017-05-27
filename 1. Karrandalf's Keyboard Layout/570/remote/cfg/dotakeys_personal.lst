@@ -30,13 +30,15 @@
 		}
 		"CameraZoomIn"
 		{
-			"Key"		"KP_PLUS"
+			"Key"		"MWHEELUP"
 			"Mode"		"0"
+			"Modifier"		"ALT"
 		}
 		"CameraZoomOut"
 		{
-			"Key"		"KP_MINUS"
+			"Key"		"MWHEELDOWN"
 			"Mode"		"0"
+			"Modifier"		"ALT"
 		}
 		"RecentEvent"
 		{
@@ -272,6 +274,7 @@
 		"Pause"
 		{
 			"Key"		"F9"
+			"Mode"		"0"
 		}
 		"ScreenshotSettings"
 		{
@@ -2400,8 +2403,5 @@
 				"Mode"		"0"
 			}
 		}
-	}
-	"HeroBuilds2"
-	{
 	}
 }
