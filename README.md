@@ -91,7 +91,7 @@ This was done by reducing the self cast timeout tolerance to zero. The way "doub
 
 You can change the binds of almost everything using the default in-game UI.
 
-Some keys require you to edit `user_keys.vcfg` in the "Steam\userdata\[Your 9 digit Steam ID here]\570" folder.
+A few keys require you to edit `user_keys.vcfg` in the "Steam\userdata\[Your 9 digit Steam ID here]\570" folder.
 
 **Why do some of my commands not trigger?**
 
