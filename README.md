@@ -48,8 +48,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 *Only Supported on Windows Operating Systems*
 
-1. Place `D2SpaceModifier.exe` in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
-   You can use the .ahk instead if you have AutoHotKey installed. https://autohotkey.com/
+1. Place `D2SpaceModifier.exe` (the one with the SPACE icon) in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup". You can use the .ahk instead if you have AutoHotKey installed. https://autohotkey.com/
 
 *Note: The compiled `.exe` is only included in releases. If you don't see the executable, then you have downloaded the lastest unreleased version and have to use the `.ahk` script instead (or compile an `.exe` yourself).*
 
