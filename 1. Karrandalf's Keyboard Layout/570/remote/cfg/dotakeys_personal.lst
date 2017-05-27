@@ -26,6 +26,7 @@
 		"CameraGrip"
 		{
 			"Key"		"MOUSE3"
+			"Mode"		"0"
 		}
 		"CameraZoomIn"
 		{
@@ -108,8 +109,8 @@
 		}
 		"CourierSelect"
 		{
-			"Key"		"`"
 			"Mode"		"0"
+			"Key"		"`"
 		}
 		"CourierDeliver"
 		{
@@ -213,7 +214,7 @@
 		}
 		"Inventory1"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"LWIN"
 			"Mode"		"0"
 		}
@@ -568,7 +569,7 @@
 		}
 		"Inventory1AutoCast"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"ALT"
 			"Mode"		"0"
 		}
@@ -682,12 +683,12 @@
 		}
 		"Inventory1QuickCast"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Mode"		"0"
 		}
 		"Inventory1QuickAutoCast"
 		{
-			"Key"		"MOUSE5"
+			"Key"		"MOUSE4"
 			"Modifier"		"ALT"
 			"Mode"		"0"
 		}
@@ -1037,6 +1038,10 @@
 			"Mode"		"0"
 		}
 		"SpectatorDropdown_Close"
+		{
+			"Mode"		"0"
+		}
+		"HeroMoveDirection"
 		{
 			"Mode"		"0"
 		}
@@ -2395,5 +2400,8 @@
 				"Mode"		"0"
 			}
 		}
+	}
+	"HeroBuilds2"
+	{
 	}
 }
