@@ -1,7 +1,7 @@
 # DotA 2 Space Modifier: The Sacred Five Lines
 
 ### What is this?
-The engine that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall [Loopuleasa's work](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) which was broken by Valve's limits to `autoexec.cfg` in the spring of 2016. This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
+The tool that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall [Loopuleasa's work](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) which was broken by Valve's limits to `autoexec.cfg` in the spring of 2016. This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
 
     ; 1. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm *
@@ -42,7 +42,7 @@ The engine that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2
     ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT** `dota2.exe`**.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. These sacred five lines fix this issue.
+**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT** `dota2.exe`**.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. These sacred five lines fix the issue.
 
 ## To Install
 
@@ -90,8 +90,6 @@ This was done by reducing the self cast timeout tolerance to zero. The way "doub
 You can change the binds of almost everything using the default in-game UI.
 
 A few keys require you to edit `user_keys.vcfg` in the " Steam\userdata\[Your 9 digit Steam ID here]\570 " folder.
-
-If you want to change the bind of <kbd>MOUSE5</kbd>, you have to edit the sixth line of `D2SpaceModifier.ahk`. 
 
 **Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
