@@ -1,7 +1,7 @@
 # DotA 2 Space Modifier: The Sacred Five Lines
 
 ### What is this?
-The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall [Loopuleasa's work](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) which was broken by Valve's limits to `autoexec.cfg` in the spring of 2016. This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
+The engine that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This gives you two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Some of you will recall [Loopuleasa's work](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) which was broken by Valve's limits to `autoexec.cfg` in the spring of 2016. This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
 
     ; 1. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm *
@@ -48,7 +48,7 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 *Only Supported on Windows Operating Systems*
 
-1. Place `D2SpaceModifier.exe` (the one with the SPACE icon) inside of the "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup" folder. You can use the `.ahk` instead if you have [AutoHotKey](https://autohotkey.com/) installed. 
+1. Place `D2SpaceModifier.exe` (the one with the SPACE icon) inside of the "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup" folder. You can use the `.ahk` inside the "Source code" folder instead if you have [AutoHotKey](https://autohotkey.com/) installed. 
 
 2. Place the `autoexec.cfg` inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
