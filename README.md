@@ -95,6 +95,12 @@ A few keys require you to edit `user_keys.vcfg` in the "Steam\userdata\[Your 9 d
 
 If you want to change the bind of <kbd>MOUSE5</kbd>, you have to edit the sixth line of `D2SpaceModifier.ahk`. 
 
+**Why is Roshan quiet?**
+
+It is easier to hear enemy units while you are killing Rosh. You can change this by editing the first line of `autoexec.cfg` to
+
+    dota_silent_roshan	0
+
 **Why do some of my commands not trigger?**
 
 That must be because of your non-standard keyboard. You should consider changing your keyboard layout to standard English in Windows options.
