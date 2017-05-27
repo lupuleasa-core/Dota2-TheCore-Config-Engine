@@ -7,8 +7,6 @@
 
 # git config
 .gitattributes text
-.gitignore text
-.gitconfig text
 
 # Documentation
 *.md text
