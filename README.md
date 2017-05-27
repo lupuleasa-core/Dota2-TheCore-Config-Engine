@@ -99,7 +99,7 @@ No, the fifth line of the script disables <kbd>CAPSLOCK</kbd>. You can still use
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
-You will need [AHK](https://autohotkey.com/) installed. Edit `D2SpaceModifier.ahk` by replacing the word "Space" in the third and fourth lines with whatever key you want such as "x" for example (here is a list of some [keys with unique names](https://autohotkey.com/docs/KeyList.htm)). Place your edited script in your StartUp folder instead of the `.exe` (or compile a new executable yourself). Restart your computer and finish installation and tweaking as usual.
+You will need [AHK](https://autohotkey.com/) installed. Edit `D2SpaceModifier.ahk` by replacing the word "Space" in the third and fourth lines with whatever key you want such as "x" for example (here is a list of some [keys with unique names](https://autohotkey.com/docs/KeyList.htm)). Place your edited script in your " StartUp " folder instead of the `.exe` (or compile a new executable yourself). Restart your computer and finish installation and tweaking as usual.
 
 **Why is Roshan quiet?**
 
