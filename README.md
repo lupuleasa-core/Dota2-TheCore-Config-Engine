@@ -125,5 +125,5 @@ The dota2.exe will not be able to see the key press.
 
 ## Made a cool keyboard layout and want to share it?
 
-Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf), and I might add it to the main repository crediting you.
+Contact me on reddit at [u/karrandalf](https://www.reddit.com/message/compose/?to=Karrandalf), and I might add it to the main repository, crediting you.
 If you know how to use git, just fork this repo and request a merge using a pull request.
