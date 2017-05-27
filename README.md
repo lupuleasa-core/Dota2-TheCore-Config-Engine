@@ -50,8 +50,6 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
 
 1. Place `D2SpaceModifier.exe` (the one with the SPACE icon) inside of the "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup" folder. You can use the `.ahk` instead if you have [AutoHotKey](https://autohotkey.com/) installed. 
 
-*Note: The compiled `.exe` is only included in releases. If you don't see the executable, then you have downloaded the lastest but unreleased version and must use the `.ahk` script instead (or compile an `.exe` yourself).*
-
 2. Place the `autoexec.cfg` inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
 3. Select a layout from the numbered folders or create your own. I recommend number one ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
