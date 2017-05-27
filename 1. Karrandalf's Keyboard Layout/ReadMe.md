@@ -1,3 +1,5 @@
+**View this ReadMe on the GitHub repository or it won't make much sense**
+
 # My personal triple keyboard layout
 
 Just throw the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
