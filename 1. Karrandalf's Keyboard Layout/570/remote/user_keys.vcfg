@@ -21,6 +21,8 @@
 		"KP_4"		"+moveleft"
 		"KP_6"		"+moveright"
 		"KP_8"		"+forward"
+		"F1"		"dota_camera_set_lookatpos -2225.888184 1506.192078"
+		"F2"		"dota_camera_set_lookatpos 2824.360596 -2323.923096"
 		"F5"		"dota_camera_center"
 		"F6"		"hud_toggle_visibility"
 		"F7"		"incrementvar dota_mouse_window_lock 0 1 1"
