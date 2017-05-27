@@ -860,22 +860,24 @@
 		{
 			"Key"		"F1"
 			"Mode"		"0"
+			"Modifier"		"ALT"
 		}
 		"SpectatorCameraSavedPosition1"
 		{
 			"Key"		"F1"
-			"Modifier"		"None"
+			"Modifier"		"ALT"
 			"Mode"		"0"
 		}
 		"CameraSavedPosition2"
 		{
 			"Key"		"F2"
 			"Mode"		"0"
+			"Modifier"		"ALT"
 		}
 		"SpectatorCameraSavedPosition2"
 		{
 			"Key"		"F2"
-			"Modifier"		"None"
+			"Modifier"		"ALT"
 			"Mode"		"0"
 		}
 		"AbilityPrimary2AutoCastAlternate"
@@ -1046,6 +1048,16 @@
 		}
 		"HeroMoveDirection"
 		{
+			"Mode"		"0"
+		}
+		"SpectatorFOWBoth"
+		{
+			"Key"		"F1"
+			"Mode"		"0"
+		}
+		"SpectatorFOWRadient"
+		{
+			"Key"		"F2"
 			"Mode"		"0"
 		}
 	}
