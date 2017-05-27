@@ -4,7 +4,7 @@ https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Ke
 
 # My personal triple keyboard layout
 
-Just throw the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
+Just throw the " 570 " folder inside of " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
 
 I had to rearrange some things because the `autoexec.cfg` can't use modifiers in its binds anymore. You can easily change the ones you don't like.
 
