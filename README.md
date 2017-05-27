@@ -42,24 +42,24 @@ The engine that "unlocks" the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA
     ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT dota2.exe.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. **The Sacred Five Lines** fix this issue.
+**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT `dota2.exe`.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. **The Sacred Five Lines** fix this issue.
 
 ## To Install
 
 *Only Supported on Windows Operating Systems*
 
-1. Place D2SpaceModifier.exe in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
+1. Place `D2SpaceModifier.exe` in your StartUp folder, "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup".
    You can use the .ahk instead if you have AutoHotKey installed. https://autohotkey.com/
 
-*Note: The compiled .exe is only included in releases. If you don't see the .exe, then you have downloaded the lastest unreleased version and have to use the .ahk script instead (or compile an executable yourself).*
+*Note: The compiled `.exe` is only included in releases. If you don't see the executable, then you have downloaded the lastest unreleased version and have to use the `.ahk` script instead (or compile an `.exe` yourself).*
 
-2. Place the autoexec.cfg inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
+2. Place the `autoexec.cfg` inside of "Steam\steamapps\common\dota 2 beta\game\dota\cfg" and overwrite if necessary.
 
 3. Select a layout from the numbered folders or create your own. I recommend number one ([my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
 
 4. Place the "570" folder inside of "Steam\userdata\ [Your 9 digit Steam ID here] " and overwrite.
 
-5. Restart your computer. D2SpaceModifier.exe will run in the background but will be inactive unless
+5. Restart your computer. `D2SpaceModifier.exe` will run in the background but will be inactive unless
    you have DotA 2 running and are "Alt-tabbed" into it.
 
 6. Launch DotA 2 and customize to your liking.
@@ -71,7 +71,7 @@ Behold our free <kbd>SPACE</kbd> modifier!
 
 ## To Uninstall
 
-1. Delete the files you pasted in the `Game`, `570`, and `StartUp` folders.
+1. Delete the files you pasted in the "Game", "570", and "StartUp" folders.
 
 2. Set your keybinds back to the way you want them.
 
@@ -102,13 +102,13 @@ No, the fifth line of the script disables <kbd>CAPSLOCK</kbd>. You can still use
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
-You will need AHK installed (https://autohotkey.com/). Edit D2SpaceModifier.ahk by replacing the word "Space" in the third and fourth lines with what ever key you want such as "x" for example (here is a list of some AHK keys with unique names: https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the .exe (or compile a new executable yourself). Restart your computer and finish installation and tweaking as usual.
+You will need AHK installed (https://autohotkey.com/). Edit `D2SpaceModifier.ahk` by replacing the word "Space" in the third and fourth lines with what ever key you want such as "x" for example (here is a list of some AHK keys with unique names: https://autohotkey.com/docs/KeyList.htm). Place your edited script in your StartUp folder instead of the `.exe` (or compile a new executable yourself). Restart your computer and finish installation and tweaking as usual.
 
 **Will this get me banned?**
 
 Remember, all the script does is allow dota2.exe to see the Windows key press while blocking it from the OS and every other application (only active while "Dota 2" is the active window). I have played 1000+ games and haven't been banned and won't be because there isn't anything in my script that is flagged as a cheat. There are AHK scripts that will get you banned, but that is not this script.
 
-**Do you personally use the .ahk or .exe?**
+**Do you personally use the `.ahk` or `.exe`?**
 
 I used the AHK script during development and the executable in post-development or long-term testing.
 
