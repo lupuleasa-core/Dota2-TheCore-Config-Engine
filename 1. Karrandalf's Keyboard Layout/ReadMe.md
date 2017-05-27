@@ -1,4 +1,4 @@
-**IMPORTANT: View this ReadMe on the GitHub or it will not make sense (link below).**
+**IMPORTANT: View this ReadMe on the GitHub or it will not make sense (url below).**
 https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout
 
 
