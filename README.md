@@ -93,6 +93,8 @@ You can change the binds of almost everything using the default in-game UI.
 
 A few keys require you to edit `user_keys.vcfg` in the "Steam\userdata\[Your 9 digit Steam ID here]\570" folder.
 
+If you want to change the bind of <kbd>MOUSE5</kbd>, you have to edit the sixth line of `D2SpaceModifier.ahk`. 
+
 **Why do some of my commands not trigger?**
 
 That must be because of your non-standard keyboard. You should consider changing your keyboard layout to standard English in Windows options.
