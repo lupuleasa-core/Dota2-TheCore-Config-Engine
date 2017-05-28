@@ -1,7 +1,7 @@
 # DotA 2 Space Modifier: The Sacred Five Lines
 
 ### What is this?
-The tool that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This allows two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Previously, [Loopuleasa's main branch](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) was broken by Valve's limits to `autoexec.cfg` in the [May 24th, 2016 patch](http://store.steampowered.com/news/22017/). This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
+The tool that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This allows two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Previously, [Loopuleasa's master branch](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) was broken by Valve's limits to `autoexec.cfg` in the [May 24th, 2016 patch](http://store.steampowered.com/news/22017/). This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
 
     ; 1. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm *
