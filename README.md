@@ -110,7 +110,7 @@ That must be because of your non-standard keyboard. You should consider changing
 
 **Is this bannable?**
 
-Remember, all the script does is allow dota2.exe to see the Windows key press while blocking it from the OS and every other application (only in effect while "Dota 2" is the active window). I have played 1000+ games and haven't been banned. There exists AHK scripts that are bannable, but those are not this script.
+Remember, all the script does is allow dota2.exe to see the Windows key press while blocking it from the OS and every other application (only in effect while "Dota 2" is the active window). I have played 1000+ games and have not been banned. There exists AHK scripts that are bannable, but those are not this script.
 
 **Do you personally use the** `.ahk` **or** `.exe`**?**
 
