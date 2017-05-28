@@ -6,7 +6,7 @@ https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Ke
 
 Just copy the " 570 " folder into " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
 
-I had to rearrange some things because the `autoexec.cfg` cannot use modifiers in its binds anymore. You can easily modify the layout to your liking.
+Some binds were rearranged because the `autoexec.cfg` cannot use modifiers in its binds anymore or to satisfy my personal taste. You can easily modify the layout to your liking.
 
 *Note: These links are so long that I think only Chrome can open them.*
 
