@@ -1,10 +1,10 @@
-**IMPORTANT: View this ReadMe on the GitHub website or you will not be able to see the layout images (url below).**
+**IMPORTANT: View this ReadMe on the GitHub website, or else you will not be able to see the layout images (url below).**
 https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout
 
 
 # My personal triple keyboard layout
 
-Just throw the " 570 " folder inside of " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
+Just copy the " 570 " folder into " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
 
 I had to rearrange some things because the `autoexec.cfg` cannot use modifiers in its binds anymore. You can easily modify the layout to your liking.
 
