@@ -42,7 +42,7 @@ The tool that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 a
     ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT** `dota2.exe`**.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we couldn't use them before is because of Windows shortcuts "Alt-tabbing" us out of DotA. These sacred five lines fix the issue.
+**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT** `dota2.exe`**.** <kbd>SPACE</kbd> retains full functionality. These five lines are all we need to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason we could not utilize them before was because of Windows shortcuts "Alt-tabbing" us out of DotA. These sacred five lines fix the issue.
 
 ## To Install
 
@@ -81,7 +81,7 @@ Only affects Ogre Magi, Lich, and neutral troll priest. This is a **Valve bug** 
 
 **Why can't I double-tap to self-cast or change wards with double-tap?**
 
-That is intended behaviour in my super compact layout, to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double tap self cast is impossible if you are using quick casts.
+That is intended behaviour in my super compact layout, to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double-tap self cast is impossible if you are using quick casts.
 
 This was done by reducing the self cast timeout tolerance to zero. The way double-taping works is by using the *Smart Double-Tap* in-game option (hold <kbd>Alt</kbd> and press an item or ability's hotkey).
 
