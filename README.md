@@ -52,7 +52,7 @@ The tool that unlocks the **hidden** <kbd>WINDOWS</kbd> modifier key in DotA 2 a
 
 2. Place the `autoexec.cfg` inside of " Steam\steamapps\common\dota 2 beta\game\dota\cfg " and overwrite if necessary.
 
-3. Select a layout from the numbered folders or create a custom layout. I recommend [my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout)).
+3. Select a layout from the numbered folders or create a custom layout. I recommend [my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout).
 
 4. Place the " 570 " folder inside of " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
 
