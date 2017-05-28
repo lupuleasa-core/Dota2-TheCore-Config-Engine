@@ -74,7 +74,7 @@ Behold the free <kbd>SPACE</kbd> modifier!
 ## Known Bugs
 
 1. Self-cast abilities which are auto-castable are self-casted when the auto-cast hotkey is pressed.
-Only affects Ogre Magi, Lich, and neutral troll priest. This is a **Valve bug**.
+Only affects Ogre Magi, Lich, and neutral troll priests. This is a **Valve bug**.
 
 ## Frequently Asked Questions
 
