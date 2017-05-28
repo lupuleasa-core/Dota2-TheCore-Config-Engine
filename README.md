@@ -42,7 +42,7 @@ The tool that unlocks the *hidden* <kbd>WINDOWS</kbd> modifier key in DotA 2 and
     ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-**Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT** `dota2.exe`**.** <kbd>SPACE</kbd> retains full functionality. These five lines are all that is needed to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason they could not be utilized before was because Windows shortcuts would "Alt-tab" the user out of DotA. These sacred five lines fix the issue.
+*Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT* `dota2.exe`*.* <kbd>SPACE</kbd> retains full functionality. These five lines are all that is needed to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason they could not be utilized before was because Windows shortcuts would "Alt-tab" the user out of DotA. These sacred five lines fix the issue.
 
 ## To Install
 
