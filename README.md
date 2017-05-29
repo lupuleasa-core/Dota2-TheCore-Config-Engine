@@ -32,7 +32,7 @@ A single hotkey that allows for [this](https://github.com/Karrandalf/D2SpaceModi
     * Bring Dota 2 to front when match found
     * Bring Dota 2 to front when pick phase begins
     
-*Note: The <kbd>SPACE</kbd> modifier reads <kbd>WINDOWS</kbd> in-game.*
+    *Note: The <kbd>SPACE</kbd> modifier reads <kbd>WINDOWS</kbd> in-game.*
 
 ## To Uninstall
 
