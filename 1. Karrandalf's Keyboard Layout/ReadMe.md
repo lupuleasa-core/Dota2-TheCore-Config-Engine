@@ -4,7 +4,7 @@ https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Ke
 
 # My personal triple keyboard layout
 
-Follow the installation instructions in the main ReadMe.
+Follow the installation instructions in the main [ReadMe](https://github.com/Karrandalf/D2SpaceModifier/blob/master/README.md).
 
 Some binds were rearranged because the `autoexec.cfg` cannot use modifiers in its binds anymore. Others were changed to my personal liking. You can easily modify the layout.
 
