@@ -24,7 +24,15 @@ A single hotkey that allows for [this](https://github.com/Karrandalf/D2SpaceModi
 
 5. Restart the computer. `D2SpaceModifier.exe` will run in the background but will be inactive unless DotA 2 is running and "Alt-tabbed" into.
 
-6. Launch DotA 2 and customize.
+6. Launch DotA 2 and customize. I manually tick the following options in-game as they cannot be transfered in config files:
+
+    * Shop Search Gets Focus Upon Open
+    * Use Extra Large Minimap
+    * Display Network Information
+    * Enable console
+    * Bring Dota 2 to front when match found
+    * Bring Dota 2 to front when pick phase begins
+    
 
 *Note: The <kbd>SPACE</kbd> modifier reads <kbd>WINDOWS</kbd> in-game.*
 
