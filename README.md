@@ -49,7 +49,7 @@ Only affects Ogre Magi, Lich, and neutral troll priests. This is a **Valve bug**
 
 **Why does double-tap to self-cast or change wards not work?**
 
-That is intended behaviour in this super compact layout inorder to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double-tap self cast is impossible if you are using quick casts.
+That is intended behaviour for this super compact layout inorder to prevent miscasts. <kbd>Alt</kbd>+<kbd>Key</kbd> should do self-cast or switch wards. Furthermore, double-tap self cast is impossible if you are using quick casts.
 
 This was done by reducing the self cast timeout tolerance to zero. The way double-taping works now is by using the *Smart Double-Tap* in-game option (hold <kbd>Alt</kbd> and press an item or ability's hotkey).
 
