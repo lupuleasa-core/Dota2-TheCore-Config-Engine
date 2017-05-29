@@ -4,9 +4,9 @@ https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Ke
 
 # My personal triple keyboard layout
 
-Just copy the " 570 " folder into " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
+Follow the installation instructions in the main ReadMe.
 
-Some binds were rearranged because the `autoexec.cfg` cannot use modifiers in its binds anymore. Others were changed to satisfy my personal taste in post-7.00 DotA. You can easily modify the layout to your liking.
+Some binds were rearranged because the `autoexec.cfg` cannot use modifiers in its binds anymore. Others were changed to my personal liking. You can easily modify the layout.
 
 *Note: These links are so long that I think only Chrome can open them.*
 
