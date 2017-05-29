@@ -63,7 +63,7 @@ No, the [fifth line](https://github.com/Karrandalf/D2SpaceModifier/blob/master/S
 
 **Why is Roshan quiet?**
 
-It is easier to hear enemy units whilst killing Rosh. You can change this by editing the first line of `autoexec.cfg` to
+It is easier to hear enemy units whilst killing Rosh. You can change this by editing the [first line](https://github.com/Karrandalf/D2SpaceModifier/blob/master/autoexec.cfg) of `autoexec.cfg` to
 
     dota_silent_roshan	0
 
