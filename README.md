@@ -1,5 +1,7 @@
 ## DotA 2 Space Modifier: The Single Hotkey Solution (NOT A SCRIPT)
 
+![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
+
 ### What is this?
 A single hotkey that allows for [this](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout) (look at the images). It unlocks the entire <kbd>WINDOWS</kbd> modifier key in DotA 2 and rebinds it to <kbd>SPACE</kbd>. This allows for a second modifier to use in triple keyboard layouts. Previously, [Loopuleasa's master branch](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) was broken by Valve's limits to `autoexec.cfg` in the [May 24th, 2016 patch](http://store.steampowered.com/news/22017/). This project is a fork of the former and restores most of its functionality by utilizing just one AHK bind (a few optional binds are available):
 
@@ -61,9 +63,6 @@ A single hotkey that allows for [this](https://github.com/Karrandalf/D2SpaceModi
 6. Launch DotA 2 and customize.
 
 *Note: The <kbd>SPACE</kbd> modifier reads <kbd>WINDOWS</kbd> in-game.*
-
-Behold the free <kbd>SPACE</kbd> modifier!
-![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
 ## To Uninstall
 
