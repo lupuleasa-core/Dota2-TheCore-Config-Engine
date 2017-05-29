@@ -59,7 +59,7 @@ No, the [fifth line](https://github.com/Karrandalf/D2SpaceModifier/blob/master/S
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
-[AHK](https://autohotkey.com/) must be installed. Edit `D2SpaceModifier.ahk` in the " Source Code " folder by replacing the word "Space" in the third and fourth lines with whatever key you want such as "x" (here is a list of some [keys with unique names](https://autohotkey.com/docs/KeyList.htm)). Place the edited script in the " StartUp " folder instead of the `.exe` (or compile a new executable). Restart the computer and finish installation and tweaking as usual.
+[AHK](https://autohotkey.com/) must be installed. Edit `D2SpaceModifier.ahk` in the " Source Code " folder by replacing the word "Space" in the [third and fourth lines](https://github.com/Karrandalf/D2SpaceModifier/blob/master/Source%20code/D2SpaceModifier.ahk) with whatever key you want such as "x" (here is a list of some [keys with unique names](https://autohotkey.com/docs/KeyList.htm)). Place the edited script in the " StartUp " folder instead of the `.exe` (or compile a new executable). Restart the computer and finish installation and tweaking as usual.
 
 **Why is Roshan quiet?**
 
