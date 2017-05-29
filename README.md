@@ -1,16 +1,16 @@
-# DotA 2 Space Modifier: The Sacred Five Lines
+# DotA 2 Space Modifier: The Single Hotkey Solution
 
 ### What is this?
-The tool that unlocks the *hidden* <kbd>WINDOWS</kbd> modifier key in DotA 2 and then binds it to <kbd>SPACE</kbd>. This allows two modifiers for keyboard layouts: <kbd>ALT</kbd> and <kbd>SPACE</kbd>. Previously, [Loopuleasa's master branch](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) was broken by Valve's limits to `autoexec.cfg` in the [May 24th, 2016 patch](http://store.steampowered.com/news/22017/). This project is a fork of the former and restores most of its functionality by utilizing five lines of AHK code (and two optional lines):
+A single hotkey that allows for [this](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout). It unlocks the entire <kbd>WINDOWS</kbd> modifier key in DotA 2 and rebinds it to <kbd>SPACE</kbd>. This allows for a second modifier to use in triple keyboard layouts. Previously, [Loopuleasa's master branch](https://github.com/loopuleasa/Dota2-TheCore-Config-Engine) was broken by Valve's limits to `autoexec.cfg` in the [May 24th, 2016 patch](http://store.steampowered.com/news/22017/). This project is a fork of the former and restores most of its functionality by utilizing just one AHK bind (a few optional binds are available):
 
     ; 1. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/_SingleInstance.htm *
-    ; Prevents more than one instance of this script from running by closing the old instance when a new one is ran.
+    ; Prevents more than one instance from running by closing the old instance when a new one is ran.
     #SingleInstance force 
     
     ; 2. **Highly Recommended**
     ; *Documentation: https://autohotkey.com/docs/commands/_IfWinActive.htm *
-    ; Makes the script only active while you are "Alt-tabbed" into DotA 2.
+    ; Only active while you are "Alt-tabbed" into DotA 2.
     #IfWinActive ahk_exe dota2.exe 
 
     ; 3. **Required**
@@ -42,7 +42,7 @@ The tool that unlocks the *hidden* <kbd>WINDOWS</kbd> modifier key in DotA 2 and
     ; Disables the left Windows key while inside of DotA 2.
     *LWin::Return
     
-*Simply put, this code hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT* `dota2.exe`*.* <kbd>SPACE</kbd> retains full functionality. These five lines are all that is needed to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason they could not be utilized before was because Windows shortcuts would "Alt-tab" the user out of DotA. These sacred five lines fix the issue.
+*Simply put, this hotkey hides all down key presses of the left Windows key from the operating system and ALL applications EXCEPT* `dota2.exe`*.* <kbd>SPACE</kbd> retains full functionality. This hotkey is all that is needed to make <kbd>SPACE</kbd> into a modifier just like <kbd>ALT</kbd>. This is because Valve already had the <kbd>WINDOWS</kbd> keys setup to work as modifiers. The only reason they could not be utilized before was because Windows shortcuts would "Alt-tab" the user out of DotA. This single rebind to <kbd>SPACE</kbd> fixes the issue.
 
 ## To Install
 
@@ -52,7 +52,7 @@ The tool that unlocks the *hidden* <kbd>WINDOWS</kbd> modifier key in DotA 2 and
 
 2. Place the `autoexec.cfg` inside of " Steam\steamapps\common\dota 2 beta\game\dota\cfg " and overwrite if necessary.
 
-3. Select a layout from the numbered folders or create a custom layout. I recommend [my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout).
+3. Select a triple keyboard layout from the numbered folders or create a custom one. I recommend [my personal layout](https://github.com/Karrandalf/D2SpaceModifier/tree/master/1.%20Karrandalf's%20Keyboard%20Layout).
 
 4. Place the " 570 " folder inside of " Steam\userdata\[Your 9 digit Steam ID here] " and overwrite.
 
@@ -92,7 +92,7 @@ A few keys require edits to `user_keys.vcfg` in the " Steam\userdata\[Your 9 dig
 
 **Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
-No, the fifth line of the script disables <kbd>CAPSLOCK</kbd>. It can stil be used as a hotkey in the in-game UI.
+No, the hotkey on the fifth line disables <kbd>CAPSLOCK</kbd>. It can stil be bound using the in-game UI.
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
@@ -110,13 +110,13 @@ That must be because of your non-standard keyboard. You should consider changing
 
 **Is this bannable?**
 
-Remember, all the script does is allow `dota2.exe` to see the Windows key press while blocking it from the OS and every other application (only in effect while "Dota 2" is the active window). I have played 1000+ games and have not been banned. There exists AHK scripts that are bannable, but those are not this script.
+Remember, this is not a script. It only allows `dota2.exe` to see the Windows key press while blocking it from the OS and every other application. I have played 1000+ games and have not been banned. There exists AHK scripts that are bannable, but those are much more than a hotkey rebind.
 
 **Do you personally use the** `.ahk` **or** `.exe`**?**
 
-I used the AHK script during development and the executable in post-development, long-term testing.
+I used the `.ahk` during development and the executable in post-development, long-term testing.
 
-**Can the Windows key be disabled using registry edits?**
+**Can the Windows key be disabled using registry edits and then used as a modifier?**
 
 The `dota2.exe` will not be able to see the key press.
 
