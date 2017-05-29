@@ -1,4 +1,4 @@
-## DotA 2 Space Modifier: The Single Hotkey Solution (NOT A SCRIPT)
+# DotA 2 Space Modifier: A Single Hotkey, not a Script
 
 ![image](https://cloud.githubusercontent.com/assets/19603023/26280395/13386eb0-3d97-11e7-8611-253684316744.png)
 
