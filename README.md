@@ -55,7 +55,7 @@ A few keys require edits to `user_keys.vcfg` in the " Steam\userdata\[Your 9 dig
 
 **Does <kbd>CAPSLOCK</kbd> still do what it usually does, even if it's a keybind?**
 
-No, the hotkey on the [fifth line](https://github.com/Karrandalf/D2SpaceModifier/blob/master/Source%20code/D2SpaceModifier.ahk) disables <kbd>CAPSLOCK</kbd>. It can stil be bound using the in-game UI.
+No, the [fifth line](https://github.com/Karrandalf/D2SpaceModifier/blob/master/Source%20code/D2SpaceModifier.ahk) disables <kbd>CAPSLOCK</kbd>. It can stil be bound using the in-game UI.
 
 **How do I pick a modifier other than <kbd>SPACE</kbd>?**
 
